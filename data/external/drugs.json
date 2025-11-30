@@ -1,0 +1,77 @@
+[
+  {
+    "name_vi": "Paracetamol",
+    "category": "Giảm đau hạ sốt",
+    "indication": "Hạ sốt, giảm đau nhẹ đến vừa"
+  },
+  {
+    "name_vi": "Ibuprofen",
+    "category": "Kháng viêm NSAIDs",
+    "indication": "Giảm đau, kháng viêm, hạ sốt"
+  },
+  {
+    "name_vi": "Amoxicillin",
+    "category": "Kháng sinh",
+    "indication": "Nhiễm khuẩn đường hô hấp, tiết niệu"
+  },
+  {
+    "name_vi": "Azithromycin",
+    "category": "Kháng sinh",
+    "indication": "Nhiễm khuẩn hô hấp, da"
+  },
+  {
+    "name_vi": "Metformin",
+    "category": "Thuốc tiểu đường",
+    "indication": "Tiểu đường type 2"
+  },
+  {
+    "name_vi": "Amlodipine",
+    "category": "Thuốc huyết áp",
+    "indication": "Tăng huyết áp, đau thắt ngực"
+  },
+  {
+    "name_vi": "Omeprazole",
+    "category": "Thuốc dạ dày",
+    "indication": "Trào ngược, loét dạ dày"
+  },
+  {
+    "name_vi": "Atorvastatin",
+    "category": "Thuốc mỡ máu",
+    "indication": "Rối loạn lipid máu"
+  },
+  {
+    "name_vi": "Losartan",
+    "category": "Thuốc huyết áp",
+    "indication": "Tăng huyết áp"
+  },
+  {
+    "name_vi": "Cetirizine",
+    "category": "Kháng histamin",
+    "indication": "Dị ứng, mề đay"
+  },
+  {
+    "name_vi": "Salbutamol",
+    "category": "Thuốc hen",
+    "indication": "Hen suyễn, COPD"
+  },
+  {
+    "name_vi": "Prednisolone",
+    "category": "Corticosteroid",
+    "indication": "Viêm, dị ứng nặng"
+  },
+  {
+    "name_vi": "Diclofenac",
+    "category": "Kháng viêm NSAIDs",
+    "indication": "Đau khớp, viêm khớp"
+  },
+  {
+    "name_vi": "Aspirin",
+    "category": "Kháng kết tập tiểu cầu",
+    "indication": "Phòng ngừa tim mạch"
+  },
+  {
+    "name_vi": "Clopidogrel",
+    "category": "Kháng kết tập tiểu cầu",
+    "indication": "Phòng ngừa huyết khối"
+  }
+]

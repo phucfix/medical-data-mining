@@ -1,0 +1,234 @@
+disease,disease_en,entity,entity_en,entity_type,relation,source_type,source_name,source_id
+Bệnh tả,Cholera,,,,,ontology,ICD-10,A00
+Bệnh thương hàn,Typhoid fever,,,,,ontology,ICD-10,A01
+Viêm dạ dày ruột,Gastroenteritis,,,,,ontology,ICD-10,A09
+Bệnh lao phổi,Tuberculosis,,,,,ontology,ICD-10,A15
+Ho gà,Whooping cough,,,,,ontology,ICD-10,A37
+Bệnh thủy đậu,Chickenpox,,,,,ontology,ICD-10,B01
+Bệnh sởi,Measles,,,,,ontology,ICD-10,B05
+Viêm gan A,Hepatitis A,,,,,ontology,ICD-10,B15
+Viêm gan B,Hepatitis B,,,,,ontology,ICD-10,B16
+Bệnh HIV/AIDS,HIV disease,,,,,ontology,ICD-10,B20
+Ung thư dạ dày,Stomach cancer,,,,,ontology,ICD-10,C16
+Ung thư đại tràng,Colon cancer,,,,,ontology,ICD-10,C18
+Ung thư gan,Liver cancer,,,,,ontology,ICD-10,C22
+Ung thư phổi,Lung cancer,,,,,ontology,ICD-10,C34
+Ung thư vú,Breast cancer,,,,,ontology,ICD-10,C50
+Ung thư tuyến tiền liệt,Prostate cancer,,,,,ontology,ICD-10,C61
+Tiểu đường type 1,Type 1 diabetes,,,,,ontology,ICD-10,E10
+Tiểu đường type 2,Type 2 diabetes,,,,,ontology,ICD-10,E11
+Béo phì,Obesity,,,,,ontology,ICD-10,E66
+Rối loạn lipid máu,Hyperlipidemia,,,,,ontology,ICD-10,E78
+Trầm cảm,Depression,,,,,ontology,ICD-10,F32
+Rối loạn lo âu,Anxiety disorder,,,,,ontology,ICD-10,F41
+Bệnh Parkinson,Parkinson disease,,,,,ontology,ICD-10,G20
+Bệnh Alzheimer,Alzheimer disease,,,,,ontology,ICD-10,G30
+Động kinh,Epilepsy,,,,,ontology,ICD-10,G40
+Đau nửa đầu,Migraine,,,,,ontology,ICD-10,G43
+Viêm kết mạc,Conjunctivitis,,,,,ontology,ICD-10,H10
+Đục thủy tinh thể,Cataract,,,,,ontology,ICD-10,H25
+Tăng nhãn áp,Glaucoma,,,,,ontology,ICD-10,H40
+Tăng huyết áp,Hypertension,,,,,ontology,ICD-10,I10
+Đau thắt ngực,Angina pectoris,,,,,ontology,ICD-10,I20
+Nhồi máu cơ tim,Myocardial infarction,,,,,ontology,ICD-10,I21
+Suy tim,Heart failure,,,,,ontology,ICD-10,I50
+Đột quỵ não,Stroke,,,,,ontology,ICD-10,I63
+Bệnh trĩ,Hemorrhoids,,,,,ontology,ICD-10,I84
+Cảm lạnh thông thường,Common cold,,,,,ontology,ICD-10,J00
+Viêm họng,Pharyngitis,,,,,ontology,ICD-10,J02
+Viêm amidan,Tonsillitis,,,,,ontology,ICD-10,J03
+Viêm đường hô hấp trên,Upper respiratory infection,,,,,ontology,ICD-10,J06
+Cúm,Influenza,,,,,ontology,ICD-10,J10
+Viêm phổi,Pneumonia,,,,,ontology,ICD-10,J18
+Viêm phế quản cấp,Acute bronchitis,,,,,ontology,ICD-10,J20
+Bệnh phổi tắc nghẽn mãn tính,COPD,,,,,ontology,ICD-10,J44
+Hen suyễn,Asthma,,,,,ontology,ICD-10,J45
+Trào ngược dạ dày thực quản,GERD,,,,,ontology,ICD-10,K21
+Loét dạ dày,Gastric ulcer,,,,,ontology,ICD-10,K25
+Viêm dạ dày,Gastritis,,,,,ontology,ICD-10,K29
+Viêm ruột thừa,Appendicitis,,,,,ontology,ICD-10,K35
+Hội chứng ruột kích thích,IBS,,,,,ontology,ICD-10,K58
+Xơ gan,Cirrhosis,,,,,ontology,ICD-10,K74
+Sỏi mật,Gallstones,,,,,ontology,ICD-10,K80
+Viêm da cơ địa,Atopic dermatitis,,,,,ontology,ICD-10,L20
+Vẩy nến,Psoriasis,,,,,ontology,ICD-10,L40
+Mề đay,Urticaria,,,,,ontology,ICD-10,L50
+Mụn trứng cá,Acne,,,,,ontology,ICD-10,L70
+Viêm khớp dạng thấp,Rheumatoid arthritis,,,,,ontology,ICD-10,M05
+Bệnh gout,Gout,,,,,ontology,ICD-10,M10
+Thoái hóa khớp gối,Knee osteoarthritis,,,,,ontology,ICD-10,M17
+Thoát vị đĩa đệm,Disc herniation,,,,,ontology,ICD-10,M51
+Đau lưng,Back pain,,,,,ontology,ICD-10,M54
+Loãng xương,Osteoporosis,,,,,ontology,ICD-10,M81
+Bệnh thận mãn,Chronic kidney disease,,,,,ontology,ICD-10,N18
+Sỏi thận,Kidney stones,,,,,ontology,ICD-10,N20
+Viêm bàng quang,Cystitis,,,,,ontology,ICD-10,N30
+Phì đại tuyến tiền liệt,BPH,,,,,ontology,ICD-10,N40
+,,Paracetamol,,drug,,database,local_drugs,
+,,Ibuprofen,,drug,,database,local_drugs,
+,,Amoxicillin,,drug,,database,local_drugs,
+,,Azithromycin,,drug,,database,local_drugs,
+,,Metformin,,drug,,database,local_drugs,
+,,Amlodipine,,drug,,database,local_drugs,
+,,Omeprazole,,drug,,database,local_drugs,
+,,Atorvastatin,,drug,,database,local_drugs,
+,,Losartan,,drug,,database,local_drugs,
+,,Cetirizine,,drug,,database,local_drugs,
+,,Salbutamol,,drug,,database,local_drugs,
+,,Prednisolone,,drug,,database,local_drugs,
+,,Diclofenac,,drug,,database,local_drugs,
+,,Aspirin,,drug,,database,local_drugs,
+,,Clopidogrel,,drug,,database,local_drugs,
+Viêm gan A,Hepatitis A,Paracetamol,,drug,treated_by,heuristic,local_drug_indication_match,Paracetamol
+Đau nửa đầu,Migraine,Paracetamol,,drug,treated_by,heuristic,local_drug_indication_match,Paracetamol
+Đau thắt ngực,Angina pectoris,Paracetamol,,drug,treated_by,heuristic,local_drug_indication_match,Paracetamol
+Đau lưng,Back pain,Paracetamol,,drug,treated_by,heuristic,local_drug_indication_match,Paracetamol
+Viêm dạ dày ruột,Gastroenteritis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm gan A,Hepatitis A,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm gan B,Hepatitis B,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Đau nửa đầu,Migraine,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm kết mạc,Conjunctivitis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Đau thắt ngực,Angina pectoris,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm họng,Pharyngitis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm amidan,Tonsillitis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm đường hô hấp trên,Upper respiratory infection,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm phổi,Pneumonia,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm phế quản cấp,Acute bronchitis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm dạ dày,Gastritis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm ruột thừa,Appendicitis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm da cơ địa,Atopic dermatitis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm khớp dạng thấp,Rheumatoid arthritis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Đau lưng,Back pain,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Viêm bàng quang,Cystitis,Ibuprofen,,drug,treated_by,heuristic,local_drug_indication_match,Ibuprofen
+Bệnh tả,Cholera,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Bệnh thương hàn,Typhoid fever,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm dạ dày ruột,Gastroenteritis,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Bệnh lao phổi,Tuberculosis,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Ho gà,Whooping cough,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Bệnh thủy đậu,Chickenpox,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Bệnh sởi,Measles,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm gan A,Hepatitis A,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm gan B,Hepatitis B,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Bệnh HIV/AIDS,HIV disease,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Tiểu đường type 1,Type 1 diabetes,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Tiểu đường type 2,Type 2 diabetes,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Béo phì,Obesity,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Rối loạn lipid máu,Hyperlipidemia,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Cảm lạnh thông thường,Common cold,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm họng,Pharyngitis,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm amidan,Tonsillitis,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm đường hô hấp trên,Upper respiratory infection,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Cúm,Influenza,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm phổi,Pneumonia,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm phế quản cấp,Acute bronchitis,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Bệnh phổi tắc nghẽn mãn tính,COPD,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Hen suyễn,Asthma,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Bệnh thận mãn,Chronic kidney disease,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Sỏi thận,Kidney stones,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Viêm bàng quang,Cystitis,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Phì đại tuyến tiền liệt,BPH,Amoxicillin,,drug,treated_by,heuristic,local_drug_indication_match,Amoxicillin
+Bệnh tả,Cholera,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Bệnh thương hàn,Typhoid fever,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm dạ dày ruột,Gastroenteritis,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Bệnh lao phổi,Tuberculosis,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Ho gà,Whooping cough,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Bệnh thủy đậu,Chickenpox,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Bệnh sởi,Measles,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm gan A,Hepatitis A,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm gan B,Hepatitis B,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Bệnh HIV/AIDS,HIV disease,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Cảm lạnh thông thường,Common cold,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm họng,Pharyngitis,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm amidan,Tonsillitis,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm đường hô hấp trên,Upper respiratory infection,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Cúm,Influenza,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm phổi,Pneumonia,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm phế quản cấp,Acute bronchitis,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Bệnh phổi tắc nghẽn mãn tính,COPD,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Hen suyễn,Asthma,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Viêm da cơ địa,Atopic dermatitis,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Vẩy nến,Psoriasis,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Mề đay,Urticaria,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Mụn trứng cá,Acne,Azithromycin,,drug,treated_by,heuristic,local_drug_indication_match,Azithromycin
+Tiểu đường type 1,Type 1 diabetes,Metformin,,drug,treated_by,heuristic,local_drug_indication_match,Metformin
+Tiểu đường type 2,Type 2 diabetes,Metformin,,drug,treated_by,heuristic,local_drug_indication_match,Metformin
+Viêm đường hô hấp trên,Upper respiratory infection,Metformin,,drug,treated_by,heuristic,local_drug_indication_match,Metformin
+Viêm gan A,Hepatitis A,Amlodipine,,drug,treated_by,heuristic,local_drug_indication_match,Amlodipine
+Đau nửa đầu,Migraine,Amlodipine,,drug,treated_by,heuristic,local_drug_indication_match,Amlodipine
+Tăng nhãn áp,Glaucoma,Amlodipine,,drug,treated_by,heuristic,local_drug_indication_match,Amlodipine
+Tăng huyết áp,Hypertension,Amlodipine,,drug,treated_by,heuristic,local_drug_indication_match,Amlodipine
+Đau thắt ngực,Angina pectoris,Amlodipine,,drug,treated_by,heuristic,local_drug_indication_match,Amlodipine
+Đau lưng,Back pain,Amlodipine,,drug,treated_by,heuristic,local_drug_indication_match,Amlodipine
+Viêm dạ dày ruột,Gastroenteritis,Omeprazole,,drug,treated_by,heuristic,local_drug_indication_match,Omeprazole
+Ung thư dạ dày,Stomach cancer,Omeprazole,,drug,treated_by,heuristic,local_drug_indication_match,Omeprazole
+Rối loạn lo âu,Anxiety disorder,Omeprazole,,drug,treated_by,heuristic,local_drug_indication_match,Omeprazole
+Trào ngược dạ dày thực quản,GERD,Omeprazole,,drug,treated_by,heuristic,local_drug_indication_match,Omeprazole
+Loét dạ dày,Gastric ulcer,Omeprazole,,drug,treated_by,heuristic,local_drug_indication_match,Omeprazole
+Viêm dạ dày,Gastritis,Omeprazole,,drug,treated_by,heuristic,local_drug_indication_match,Omeprazole
+Rối loạn lipid máu,Hyperlipidemia,Atorvastatin,,drug,treated_by,heuristic,local_drug_indication_match,Atorvastatin
+Rối loạn lo âu,Anxiety disorder,Atorvastatin,,drug,treated_by,heuristic,local_drug_indication_match,Atorvastatin
+Nhồi máu cơ tim,Myocardial infarction,Atorvastatin,,drug,treated_by,heuristic,local_drug_indication_match,Atorvastatin
+Tăng nhãn áp,Glaucoma,Losartan,,drug,treated_by,heuristic,local_drug_indication_match,Losartan
+Tăng huyết áp,Hypertension,Losartan,,drug,treated_by,heuristic,local_drug_indication_match,Losartan
+Viêm gan A,Hepatitis A,Cetirizine,,drug,treated_by,heuristic,local_drug_indication_match,Cetirizine
+Mề đay,Urticaria,Cetirizine,,drug,treated_by,heuristic,local_drug_indication_match,Cetirizine
+Suy tim,Heart failure,Salbutamol,,drug,treated_by,heuristic,local_drug_indication_match,Salbutamol
+Bệnh phổi tắc nghẽn mãn tính,COPD,Salbutamol,,drug,treated_by,heuristic,local_drug_indication_match,Salbutamol
+Hen suyễn,Asthma,Salbutamol,,drug,treated_by,heuristic,local_drug_indication_match,Salbutamol
+Viêm dạ dày ruột,Gastroenteritis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm gan A,Hepatitis A,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm gan B,Hepatitis B,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm kết mạc,Conjunctivitis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm họng,Pharyngitis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm amidan,Tonsillitis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm đường hô hấp trên,Upper respiratory infection,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm phổi,Pneumonia,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm phế quản cấp,Acute bronchitis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm dạ dày,Gastritis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm ruột thừa,Appendicitis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm da cơ địa,Atopic dermatitis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm khớp dạng thấp,Rheumatoid arthritis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm bàng quang,Cystitis,Prednisolone,,drug,treated_by,heuristic,local_drug_indication_match,Prednisolone
+Viêm dạ dày ruột,Gastroenteritis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm gan A,Hepatitis A,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm gan B,Hepatitis B,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Đau nửa đầu,Migraine,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm kết mạc,Conjunctivitis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Đau thắt ngực,Angina pectoris,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm họng,Pharyngitis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm amidan,Tonsillitis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm đường hô hấp trên,Upper respiratory infection,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm phổi,Pneumonia,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm phế quản cấp,Acute bronchitis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm dạ dày,Gastritis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm ruột thừa,Appendicitis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm da cơ địa,Atopic dermatitis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm khớp dạng thấp,Rheumatoid arthritis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Bệnh gout,Gout,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Thoái hóa khớp gối,Knee osteoarthritis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Thoát vị đĩa đệm,Disc herniation,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Đau lưng,Back pain,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Loãng xương,Osteoporosis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm bàng quang,Cystitis,Diclofenac,,drug,treated_by,heuristic,local_drug_indication_match,Diclofenac
+Viêm gan A,Hepatitis A,Aspirin,,drug,treated_by,heuristic,local_drug_indication_match,Aspirin
+Viêm kết mạc,Conjunctivitis,Aspirin,,drug,treated_by,heuristic,local_drug_indication_match,Aspirin
+Tăng huyết áp,Hypertension,Aspirin,,drug,treated_by,heuristic,local_drug_indication_match,Aspirin
+Đau thắt ngực,Angina pectoris,Aspirin,,drug,treated_by,heuristic,local_drug_indication_match,Aspirin
+Nhồi máu cơ tim,Myocardial infarction,Aspirin,,drug,treated_by,heuristic,local_drug_indication_match,Aspirin
+Suy tim,Heart failure,Aspirin,,drug,treated_by,heuristic,local_drug_indication_match,Aspirin
+Đột quỵ não,Stroke,Aspirin,,drug,treated_by,heuristic,local_drug_indication_match,Aspirin
+Bệnh trĩ,Hemorrhoids,Aspirin,,drug,treated_by,heuristic,local_drug_indication_match,Aspirin
+Viêm gan A,Hepatitis A,Clopidogrel,,drug,treated_by,heuristic,local_drug_indication_match,Clopidogrel
+Tăng huyết áp,Hypertension,Clopidogrel,,drug,treated_by,heuristic,local_drug_indication_match,Clopidogrel
+Ho gà,Whooping cough,Ho,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Trầm cảm,Depression,Trầm cảm,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Rối loạn lo âu,Anxiety disorder,Lo âu,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Đau nửa đầu,Migraine,Đau đầu,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Đau thắt ngực,Angina pectoris,Đau ngực,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Cảm lạnh thông thường,Common cold,Trầm cảm,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Viêm họng,Pharyngitis,Đau họng,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Viêm khớp dạng thấp,Rheumatoid arthritis,Đau khớp,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Thoái hóa khớp gối,Knee osteoarthritis,Ho,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Thoái hóa khớp gối,Knee osteoarthritis,Đau khớp,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Thoát vị đĩa đệm,Disc herniation,Ho,,symptom,has_symptom,heuristic,local_symptom_namedmatch,
+Đau lưng,Back pain,Đau lưng,,symptom,has_symptom,heuristic,local_symptom_namedmatch,

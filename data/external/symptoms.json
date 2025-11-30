@@ -1,0 +1,127 @@
+[
+  {
+    "name_vi": "Sốt",
+    "name_en": "Fever",
+    "description": "Thân nhiệt cao hơn bình thường"
+  },
+  {
+    "name_vi": "Đau đầu",
+    "name_en": "Headache",
+    "description": "Đau ở vùng đầu"
+  },
+  {
+    "name_vi": "Ho",
+    "name_en": "Cough",
+    "description": "Phản xạ đẩy không khí ra khỏi phổi"
+  },
+  {
+    "name_vi": "Khó thở",
+    "name_en": "Dyspnea",
+    "description": "Khó khăn khi hít thở"
+  },
+  {
+    "name_vi": "Đau ngực",
+    "name_en": "Chest pain",
+    "description": "Cảm giác đau ở vùng ngực"
+  },
+  {
+    "name_vi": "Đau bụng",
+    "name_en": "Abdominal pain",
+    "description": "Đau ở vùng bụng"
+  },
+  {
+    "name_vi": "Buồn nôn",
+    "name_en": "Nausea",
+    "description": "Cảm giác muốn nôn"
+  },
+  {
+    "name_vi": "Nôn",
+    "name_en": "Vomiting",
+    "description": "Tống thức ăn ra khỏi dạ dày"
+  },
+  {
+    "name_vi": "Tiêu chảy",
+    "name_en": "Diarrhea",
+    "description": "Đi ngoài phân lỏng nhiều lần"
+  },
+  {
+    "name_vi": "Táo bón",
+    "name_en": "Constipation",
+    "description": "Khó đi ngoài"
+  },
+  {
+    "name_vi": "Mệt mỏi",
+    "name_en": "Fatigue",
+    "description": "Cảm giác kiệt sức"
+  },
+  {
+    "name_vi": "Chóng mặt",
+    "name_en": "Dizziness",
+    "description": "Cảm giác quay cuồng"
+  },
+  {
+    "name_vi": "Đau lưng",
+    "name_en": "Back pain",
+    "description": "Đau ở vùng lưng"
+  },
+  {
+    "name_vi": "Đau khớp",
+    "name_en": "Joint pain",
+    "description": "Đau ở các khớp"
+  },
+  {
+    "name_vi": "Sưng",
+    "name_en": "Swelling",
+    "description": "Phù nề do tích tụ dịch"
+  },
+  {
+    "name_vi": "Ngứa",
+    "name_en": "Itching",
+    "description": "Cảm giác muốn gãi"
+  },
+  {
+    "name_vi": "Phát ban",
+    "name_en": "Rash",
+    "description": "Thay đổi màu sắc da"
+  },
+  {
+    "name_vi": "Sổ mũi",
+    "name_en": "Runny nose",
+    "description": "Chảy dịch mũi"
+  },
+  {
+    "name_vi": "Nghẹt mũi",
+    "name_en": "Nasal congestion",
+    "description": "Tắc mũi"
+  },
+  {
+    "name_vi": "Đau họng",
+    "name_en": "Sore throat",
+    "description": "Đau rát ở cổ họng"
+  },
+  {
+    "name_vi": "Sụt cân",
+    "name_en": "Weight loss",
+    "description": "Giảm cân không chủ ý"
+  },
+  {
+    "name_vi": "Mất ngủ",
+    "name_en": "Insomnia",
+    "description": "Khó ngủ hoặc ngủ không sâu"
+  },
+  {
+    "name_vi": "Lo âu",
+    "name_en": "Anxiety",
+    "description": "Cảm giác lo lắng, bồn chồn"
+  },
+  {
+    "name_vi": "Trầm cảm",
+    "name_en": "Depression",
+    "description": "Buồn bã, mất hứng thú"
+  },
+  {
+    "name_vi": "Tim đập nhanh",
+    "name_en": "Palpitations",
+    "description": "Cảm nhận tim đập mạnh"
+  }
+]

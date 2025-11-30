@@ -1,0 +1,4400 @@
+{
+  "metadata": {
+    "total_questions": 627,
+    "true_count": 347,
+    "false_count": 280,
+    "generated_date": "2025-11-30T14:06:53.254879",
+    "method": "template_based_offline"
+  },
+  "data": [
+    {
+      "question": "Bệnh Tiểu đường type 1 có mã ICD-10 là E10.",
+      "answer": "Đúng",
+      "explanation": "Tiểu đường type 1 (Type 1 diabetes) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Loãng xương không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Loãng xương thuộc nhóm Cơ xương khớp, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tim đập nhanh là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Tim đập nhanh là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Amlodipine có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Amlodipine là thuốc Thuốc huyết áp, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau nửa đầu là một bệnh thuộc nhóm Tiết niệu.",
+      "answer": "Sai",
+      "explanation": "Đau nửa đầu thuộc nhóm Thần kinh, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Loãng xương (tên tiếng Anh: Osteoporosis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Loãng xương (Osteoporosis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đột quỵ não chỉ xảy ra ở người già.",
+      "answer": "Sai",
+      "explanation": "Đột quỵ có thể xảy ra ở mọi lứa tuổi, kể cả người trẻ.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Béo phì là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Sai",
+      "explanation": "Béo phì thuộc nhóm Nội tiết, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm ruột thừa là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Viêm ruột thừa thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Alzheimer là một bệnh thuộc nhóm Thần kinh.",
+      "answer": "Đúng",
+      "explanation": "Bệnh Alzheimer (Alzheimer disease) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư dạ dày (tên tiếng Anh: Stomach cancer) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Ung thư dạ dày (Stomach cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm ruột thừa có mã ICD-10 là K35.",
+      "answer": "Đúng",
+      "explanation": "Viêm ruột thừa (Appendicitis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh gout là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh gout thuộc nhóm Cơ xương khớp, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đột quỵ não là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Đột quỵ não (Stroke) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Loãng xương là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Đúng",
+      "explanation": "Loãng xương (Osteoporosis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Amlodipine là thuốc thuộc nhóm Thuốc huyết áp.",
+      "answer": "Đúng",
+      "explanation": "Amlodipine - Thuốc huyết áp - Tăng huyết áp, đau thắt ngực",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày ruột (tên tiếng Anh: Gastroenteritis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm dạ dày ruột (Gastroenteritis) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư dạ dày không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Ung thư dạ dày thuộc nhóm Ung thư, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hen suyễn là bệnh viêm đường thở mãn tính.",
+      "answer": "Đúng",
+      "explanation": "Hen suyễn là bệnh viêm mãn tính làm hẹp đường thở.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Phản xạ đẩy không khí ra khỏi phổi là biểu hiện của triệu chứng Ho.",
+      "answer": "Đúng",
+      "explanation": "Ho - Phản xạ đẩy không khí ra khỏi phổi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm ruột thừa (tên tiếng Anh: Appendicitis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm ruột thừa (Appendicitis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Sốt được gọi là Fever trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Sốt - Thân nhiệt cao hơn bình thường",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Paracetamol có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Paracetamol là thuốc Giảm đau hạ sốt, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm khớp dạng thấp (tên tiếng Anh: Rheumatoid arthritis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm khớp dạng thấp (Rheumatoid arthritis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đột quỵ não có mã ICD-10 là I63.",
+      "answer": "Đúng",
+      "explanation": "Đột quỵ não (Stroke) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ngứa là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Ngứa - Cảm giác muốn gãi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoát vị đĩa đệm là do nhân nhầy đĩa đệm lồi ra chèn dây thần kinh.",
+      "answer": "Đúng",
+      "explanation": "Thoát vị đĩa đệm xảy ra khi nhân nhầy thoát ra ngoài.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Ibuprofen là thuốc thuộc nhóm Kháng viêm NSAIDs.",
+      "answer": "Đúng",
+      "explanation": "Ibuprofen - Kháng viêm NSAIDs - Giảm đau, kháng viêm, hạ sốt",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau lưng được gọi là Back pain trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Đau lưng - Đau ở vùng lưng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau bụng là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Đau bụng - Đau ở vùng bụng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm kết mạc không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm kết mạc thuộc nhóm Mắt, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm gan B là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Viêm gan B (Hepatitis B) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 1 (tên tiếng Anh: Type 1 diabetes) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Tiểu đường type 1 (Type 1 diabetes) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư cổ tử cung có thể phòng ngừa bằng vaccine HPV.",
+      "answer": "Đúng",
+      "explanation": "Vaccine HPV ngăn ngừa virus gây ung thư cổ tử cung.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Ho gà (tên tiếng Anh: Whooping cough) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Ho gà (Whooping cough) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ho gà là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Sai",
+      "explanation": "Ho gà thuộc nhóm Bệnh truyền nhiễm, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Rối loạn lipid máu có mã ICD-10 là E78.",
+      "answer": "Đúng",
+      "explanation": "Rối loạn lipid máu (Hyperlipidemia) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Khó thở là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Khó thở - Khó khăn khi hít thở",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Salbutamol có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Salbutamol là thuốc Thuốc hen, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm bàng quang là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Sai",
+      "explanation": "Viêm bàng quang thuộc nhóm Tiết niệu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Prednisolone là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Prednisolone là thuốc Corticosteroid, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Buồn nôn là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Buồn nôn là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Amoxicillin được chỉ định điều trị Nhiễm khuẩn đường hô hấp, tiết niệu.",
+      "answer": "Đúng",
+      "explanation": "Amoxicillin - Kháng sinh - Nhiễm khuẩn đường hô hấp, tiết niệu",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Khó thở không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Khó thở là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm ruột thừa là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Đúng",
+      "explanation": "Viêm ruột thừa (Appendicitis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau khớp là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Đau khớp là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Động kinh (tên tiếng Anh: Epilepsy) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Động kinh (Epilepsy) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày ruột là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Sai",
+      "explanation": "Viêm dạ dày ruột thuộc nhóm Bệnh truyền nhiễm, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Sưng được gọi là Swelling trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Sưng - Phù nề do tích tụ dịch",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sụt cân là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Sụt cân là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoát vị đĩa đệm là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Đúng",
+      "explanation": "Thoát vị đĩa đệm (Disc herniation) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nghẹt mũi là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Nghẹt mũi là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau khớp là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Đau khớp - Đau ở các khớp",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh trĩ không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh trĩ thuộc nhóm Tim mạch, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm bàng quang không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm bàng quang thuộc nhóm Tiết niệu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Losartan là thuốc thuộc nhóm Thuốc huyết áp.",
+      "answer": "Đúng",
+      "explanation": "Losartan - Thuốc huyết áp - Tăng huyết áp",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Prednisolone được chỉ định điều trị Viêm, dị ứng nặng.",
+      "answer": "Đúng",
+      "explanation": "Prednisolone - Corticosteroid - Viêm, dị ứng nặng",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Mệt mỏi được gọi là Fatigue trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Mệt mỏi - Cảm giác kiệt sức",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Vaccine giúp tạo miễn dịch chống lại bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Vaccine kích thích hệ miễn dịch tạo kháng thể.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Đường huyết bình thường khi đói là dưới 100 mg/dL.",
+      "answer": "Đúng",
+      "explanation": "Đường huyết lúc đói bình thường: 70-99 mg/dL.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Đi ngoài phân lỏng nhiều lần là biểu hiện của triệu chứng Tiêu chảy.",
+      "answer": "Đúng",
+      "explanation": "Tiêu chảy - Đi ngoài phân lỏng nhiều lần",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Béo phì (tên tiếng Anh: Obesity) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Béo phì (Obesity) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sụt cân là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Sụt cân - Giảm cân không chủ ý",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "COVID-19 là bệnh do virus SARS-CoV-2 gây ra.",
+      "answer": "Đúng",
+      "explanation": "COVID-19 do coronavirus SARS-CoV-2 gây ra.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Bệnh thủy đậu là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh thủy đậu thuộc nhóm Bệnh truyền nhiễm, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Lo âu không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Lo âu là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm amidan có mã ICD-10 là J03.",
+      "answer": "Đúng",
+      "explanation": "Viêm amidan (Tonsillitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nhồi máu cơ tim (tên tiếng Anh: Myocardial infarction) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Nhồi máu cơ tim (Myocardial infarction) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Nghẹt mũi không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Nghẹt mũi là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm họng (tên tiếng Anh: Pharyngitis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm họng (Pharyngitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đau thắt ngực có mã ICD-10 là I20.",
+      "answer": "Đúng",
+      "explanation": "Đau thắt ngực (Angina pectoris) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm dạ dày thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh trĩ (tên tiếng Anh: Hemorrhoids) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh trĩ (Hemorrhoids) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư vú (tên tiếng Anh: Breast cancer) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Ung thư vú (Breast cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cetirizine là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Cetirizine là thuốc Kháng histamin, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Diclofenac là thuốc thuộc nhóm Kháng viêm NSAIDs.",
+      "answer": "Đúng",
+      "explanation": "Diclofenac - Kháng viêm NSAIDs - Đau khớp, viêm khớp",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hội chứng ruột kích thích là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Đúng",
+      "explanation": "Hội chứng ruột kích thích (IBS) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 1 là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Sai",
+      "explanation": "Tiểu đường type 1 thuộc nhóm Nội tiết, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Lo âu được gọi là Anxiety trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Lo âu - Cảm giác lo lắng, bồn chồn",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 2 có thể phòng ngừa bằng lối sống lành mạnh.",
+      "answer": "Đúng",
+      "explanation": "Chế độ ăn uống và vận động giúp giảm nguy cơ tiểu đường type 2.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Ung thư gan là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Ung thư gan thuộc nhóm Ung thư, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư dạ dày là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Đúng",
+      "explanation": "Ung thư dạ dày (Stomach cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Tăng nhãn áp có mã ICD-10 là H40.",
+      "answer": "Đúng",
+      "explanation": "Tăng nhãn áp (Glaucoma) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ho là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Ho là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Alzheimer là bệnh mất trí nhớ ở người già.",
+      "answer": "Đúng",
+      "explanation": "Alzheimer là dạng phổ biến nhất của sa sút trí tuệ.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Thuốc Metformin có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Metformin là thuốc Thuốc tiểu đường, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư phổi là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Ung thư phổi thuộc nhóm Ung thư, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau nửa đầu (tên tiếng Anh: Migraine) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Đau nửa đầu (Migraine) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh gout là một bệnh thuộc nhóm Da liễu.",
+      "answer": "Sai",
+      "explanation": "Bệnh gout thuộc nhóm Cơ xương khớp, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm giác muốn gãi là biểu hiện của triệu chứng Ngứa.",
+      "answer": "Đúng",
+      "explanation": "Ngứa - Cảm giác muốn gãi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Buồn nôn không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Buồn nôn là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Hội chứng ruột kích thích có mã ICD-10 là K58.",
+      "answer": "Đúng",
+      "explanation": "Hội chứng ruột kích thích (IBS) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Ibuprofen được chỉ định điều trị Giảm đau, kháng viêm, hạ sốt.",
+      "answer": "Đúng",
+      "explanation": "Ibuprofen - Kháng viêm NSAIDs - Giảm đau, kháng viêm, hạ sốt",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Losartan được chỉ định điều trị Tăng huyết áp.",
+      "answer": "Đúng",
+      "explanation": "Losartan - Thuốc huyết áp - Tăng huyết áp",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Paracetamol là thuốc thuộc nhóm Giảm đau hạ sốt.",
+      "answer": "Đúng",
+      "explanation": "Paracetamol - Giảm đau hạ sốt - Hạ sốt, giảm đau nhẹ đến vừa",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trầm cảm là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Trầm cảm là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Losartan là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Losartan là thuốc Thuốc huyết áp, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cúm là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Cúm (Influenza) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đau lưng có mã ICD-10 là M54.",
+      "answer": "Đúng",
+      "explanation": "Đau lưng (Back pain) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rửa tay đúng cách giúp phòng ngừa bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Rửa tay là biện pháp phòng bệnh hiệu quả.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Triệu chứng Đau họng được gọi là Sore throat trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Đau họng - Đau rát ở cổ họng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nôn là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Nôn - Tống thức ăn ra khỏi dạ dày",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Nhồi máu cơ tim không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Nhồi máu cơ tim thuộc nhóm Tim mạch, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh trĩ là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Sai",
+      "explanation": "Bệnh trĩ thuộc nhóm Tim mạch, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Nhồi máu cơ tim có mã ICD-10 là I21.",
+      "answer": "Đúng",
+      "explanation": "Nhồi máu cơ tim (Myocardial infarction) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ho là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Ho - Phản xạ đẩy không khí ra khỏi phổi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Trào ngược dạ dày thực quản có mã ICD-10 là K21.",
+      "answer": "Đúng",
+      "explanation": "Trào ngược dạ dày thực quản (GERD) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư gan là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Ung thư gan thuộc nhóm Ung thư, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hen suyễn là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Hen suyễn (Asthma) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoái hóa khớp gối (tên tiếng Anh: Knee osteoarthritis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Thoái hóa khớp gối (Knee osteoarthritis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư đại tràng có mã ICD-10 là C18.",
+      "answer": "Đúng",
+      "explanation": "Ung thư đại tràng (Colon cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Paracetamol là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Paracetamol là thuốc Giảm đau hạ sốt, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng huyết áp là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Tăng huyết áp thuộc nhóm Tim mạch, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh tả không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh tả thuộc nhóm Bệnh truyền nhiễm, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Metformin cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Metformin - Thuốc tiểu đường - Tiểu đường type 2",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm gan B là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm gan B thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Cảm lạnh thông thường có mã ICD-10 là J00.",
+      "answer": "Đúng",
+      "explanation": "Cảm lạnh thông thường (Common cold) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Phát ban là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Phát ban là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cúm là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Sai",
+      "explanation": "Cúm thuộc nhóm Hô hấp, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Loãng xương là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Sai",
+      "explanation": "Loãng xương thuộc nhóm Cơ xương khớp, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rối loạn lipid máu là một bệnh thuộc nhóm Thần kinh.",
+      "answer": "Sai",
+      "explanation": "Rối loạn lipid máu thuộc nhóm Nội tiết, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi mật là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Đúng",
+      "explanation": "Sỏi mật (Gallstones) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đột quỵ não không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Đột quỵ não thuộc nhóm Tim mạch, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư vú là một bệnh thuộc nhóm Da liễu.",
+      "answer": "Sai",
+      "explanation": "Ung thư vú thuộc nhóm Ung thư, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nhồi máu cơ tim xảy ra khi động mạch vành bị tắc nghẽn.",
+      "answer": "Đúng",
+      "explanation": "Nhồi máu cơ tim do tắc nghẽn động mạch vành, làm tim thiếu máu.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Thuốc Omeprazole được chỉ định điều trị Trào ngược, loét dạ dày.",
+      "answer": "Đúng",
+      "explanation": "Omeprazole - Thuốc dạ dày - Trào ngược, loét dạ dày",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh lao phổi không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh lao phổi thuộc nhóm Bệnh truyền nhiễm, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thận mãn là một bệnh thuộc nhóm Tiết niệu.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thận mãn (Chronic kidney disease) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư tuyến tiền liệt có mã ICD-10 là C61.",
+      "answer": "Đúng",
+      "explanation": "Ung thư tuyến tiền liệt (Prostate cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Vẩy nến là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Vẩy nến thuộc nhóm Da liễu, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "COPD là bệnh có thể chữa khỏi hoàn toàn.",
+      "answer": "Sai",
+      "explanation": "COPD là bệnh mãn tính, chỉ có thể kiểm soát, không chữa khỏi.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Amlodipine cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Amlodipine - Thuốc huyết áp - Tăng huyết áp, đau thắt ngực",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm lạnh thông thường là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Cảm lạnh thông thường (Common cold) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Vẩy nến có mã ICD-10 là L40.",
+      "answer": "Đúng",
+      "explanation": "Vẩy nến (Psoriasis) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh thương hàn không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh thương hàn thuộc nhóm Bệnh truyền nhiễm, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư đại tràng là một bệnh thuộc nhóm Thần kinh.",
+      "answer": "Sai",
+      "explanation": "Ung thư đại tràng thuộc nhóm Ung thư, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hội chứng ruột kích thích là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Hội chứng ruột kích thích thuộc nhóm Tiêu hóa, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau thắt ngực (tên tiếng Anh: Angina pectoris) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Đau thắt ngực (Angina pectoris) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh thủy đậu có mã ICD-10 là B01.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thủy đậu (Chickenpox) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Atorvastatin là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Atorvastatin là thuốc Thuốc mỡ máu, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Hen suyễn không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Hen suyễn thuộc nhóm Hô hấp, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đục thủy tinh thể không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Đục thủy tinh thể thuộc nhóm Mắt, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đau nửa đầu có mã ICD-10 là G43.",
+      "answer": "Đúng",
+      "explanation": "Đau nửa đầu (Migraine) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư phổi có mã ICD-10 là C34.",
+      "answer": "Đúng",
+      "explanation": "Ung thư phổi (Lung cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư vú không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Ung thư vú thuộc nhóm Ung thư, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh phổi tắc nghẽn mãn tính là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh phổi tắc nghẽn mãn tính thuộc nhóm Hô hấp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Tiêu chảy không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Tiêu chảy là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Sỏi mật không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Sỏi mật thuộc nhóm Tiêu hóa, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đục thủy tinh thể là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Đục thủy tinh thể thuộc nhóm Mắt, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm phế quản cấp là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Viêm phế quản cấp thuộc nhóm Hô hấp, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau nửa đầu là một bệnh thuộc nhóm Thần kinh.",
+      "answer": "Đúng",
+      "explanation": "Đau nửa đầu (Migraine) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Chóng mặt không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Chóng mặt là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh HIV/AIDS là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Sai",
+      "explanation": "Bệnh HIV/AIDS thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thay đổi màu sắc da là biểu hiện của triệu chứng Phát ban.",
+      "answer": "Đúng",
+      "explanation": "Phát ban - Thay đổi màu sắc da",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tắc mũi là biểu hiện của triệu chứng Nghẹt mũi.",
+      "answer": "Đúng",
+      "explanation": "Nghẹt mũi - Tắc mũi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trào ngược dạ dày thực quản là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Đúng",
+      "explanation": "Trào ngược dạ dày thực quản (GERD) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sưng là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Sưng là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mề đay là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Mề đay thuộc nhóm Da liễu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Phì đại tuyến tiền liệt là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Phì đại tuyến tiền liệt thuộc nhóm Tiết niệu, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm bàng quang (tên tiếng Anh: Cystitis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm bàng quang (Cystitis) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm gan A (tên tiếng Anh: Hepatitis A) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm gan A (Hepatitis A) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Phù nề do tích tụ dịch là biểu hiện của triệu chứng Sưng.",
+      "answer": "Đúng",
+      "explanation": "Sưng - Phù nề do tích tụ dịch",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Loãng xương phổ biến hơn ở phụ nữ sau mãn kinh.",
+      "answer": "Đúng",
+      "explanation": "Giảm estrogen sau mãn kinh tăng nguy cơ loãng xương.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Cảm giác lo lắng, bồn chồn là biểu hiện của triệu chứng Lo âu.",
+      "answer": "Đúng",
+      "explanation": "Lo âu - Cảm giác lo lắng, bồn chồn",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trầm cảm (tên tiếng Anh: Depression) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Trầm cảm (Depression) thuộc nhóm Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 2 là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Đúng",
+      "explanation": "Tiểu đường type 2 (Type 2 diabetes) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nhồi máu cơ tim là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Nhồi máu cơ tim thuộc nhóm Tim mạch, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Thoát vị đĩa đệm có mã ICD-10 là M51.",
+      "answer": "Đúng",
+      "explanation": "Thoát vị đĩa đệm (Disc herniation) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm đường hô hấp trên là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Sai",
+      "explanation": "Viêm đường hô hấp trên thuộc nhóm Hô hấp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cúm (tên tiếng Anh: Influenza) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Cúm (Influenza) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm nhận tim đập mạnh là biểu hiện của triệu chứng Tim đập nhanh.",
+      "answer": "Đúng",
+      "explanation": "Tim đập nhanh - Cảm nhận tim đập mạnh",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Loét dạ dày là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Loét dạ dày thuộc nhóm Tiêu hóa, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày ruột là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Viêm dạ dày ruột (Gastroenteritis) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Prednisolone là thuốc thuộc nhóm Corticosteroid.",
+      "answer": "Đúng",
+      "explanation": "Prednisolone - Corticosteroid - Viêm, dị ứng nặng",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Động kinh là một bệnh thuộc nhóm Thần kinh.",
+      "answer": "Đúng",
+      "explanation": "Động kinh (Epilepsy) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trầm cảm là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Trầm cảm - Buồn bã, mất hứng thú",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rối loạn lipid máu là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Đúng",
+      "explanation": "Rối loạn lipid máu (Hyperlipidemia) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Xơ gan không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Xơ gan thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoái hóa khớp gối là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Đúng",
+      "explanation": "Thoái hóa khớp gối (Knee osteoarthritis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau đầu là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Đau đầu là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm da cơ địa (tên tiếng Anh: Atopic dermatitis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm da cơ địa (Atopic dermatitis) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trầm cảm là một bệnh thuộc nhóm Tiết niệu.",
+      "answer": "Sai",
+      "explanation": "Trầm cảm thuộc nhóm Tâm thần, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Uống rượu nhiều là nguyên nhân gây xơ gan.",
+      "answer": "Đúng",
+      "explanation": "Rượu là nguyên nhân chính gây xơ gan.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Bệnh Ung thư đại tràng không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Ung thư đại tràng thuộc nhóm Ung thư, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm phổi không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm phổi thuộc nhóm Hô hấp, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng nhãn áp là một bệnh thuộc nhóm Mắt.",
+      "answer": "Đúng",
+      "explanation": "Tăng nhãn áp (Glaucoma) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh lao phổi có mã ICD-10 là A15.",
+      "answer": "Đúng",
+      "explanation": "Bệnh lao phổi (Tuberculosis) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Azithromycin cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Azithromycin - Kháng sinh - Nhiễm khuẩn hô hấp, da",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm gan A có mã ICD-10 là B15.",
+      "answer": "Đúng",
+      "explanation": "Viêm gan A (Hepatitis A) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Atorvastatin cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Atorvastatin - Thuốc mỡ máu - Rối loạn lipid máu",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư dạ dày có mã ICD-10 là C16.",
+      "answer": "Đúng",
+      "explanation": "Ung thư dạ dày (Stomach cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh gout (tên tiếng Anh: Gout) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh gout (Gout) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Tiểu đường type 2 không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Tiểu đường type 2 thuộc nhóm Nội tiết, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Béo phì là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Đúng",
+      "explanation": "Béo phì (Obesity) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm khớp dạng thấp là bệnh tự miễn.",
+      "answer": "Đúng",
+      "explanation": "Viêm khớp dạng thấp do hệ miễn dịch tấn công khớp.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Bệnh Béo phì có mã ICD-10 là E66.",
+      "answer": "Đúng",
+      "explanation": "Béo phì (Obesity) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sốt là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Sốt - Thân nhiệt cao hơn bình thường",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau ở vùng lưng là biểu hiện của triệu chứng Đau lưng.",
+      "answer": "Đúng",
+      "explanation": "Đau lưng - Đau ở vùng lưng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh sởi là một bệnh thuộc nhóm Mắt.",
+      "answer": "Sai",
+      "explanation": "Bệnh sởi thuộc nhóm Bệnh truyền nhiễm, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Thoái hóa khớp gối không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Thoái hóa khớp gối thuộc nhóm Cơ xương khớp, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ngứa là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Ngứa là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Salbutamol cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Salbutamol - Thuốc hen - Hen suyễn, COPD",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rối loạn lo âu là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Rối loạn lo âu thuộc nhóm Tâm thần, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoát vị đĩa đệm là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Sai",
+      "explanation": "Thoát vị đĩa đệm thuộc nhóm Cơ xương khớp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Salbutamol là thuốc thuộc nhóm Thuốc hen.",
+      "answer": "Đúng",
+      "explanation": "Salbutamol - Thuốc hen - Hen suyễn, COPD",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi thận là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Sỏi thận thuộc nhóm Tiết niệu, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Diclofenac được chỉ định điều trị Đau khớp, viêm khớp.",
+      "answer": "Đúng",
+      "explanation": "Diclofenac - Kháng viêm NSAIDs - Đau khớp, viêm khớp",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Omeprazole cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Omeprazole - Thuốc dạ dày - Trào ngược, loét dạ dày",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đột quỵ não là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Đột quỵ não thuộc nhóm Tim mạch, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Tăng nhãn áp không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Tăng nhãn áp thuộc nhóm Mắt, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm gan B có mã ICD-10 là B16.",
+      "answer": "Đúng",
+      "explanation": "Viêm gan B (Hepatitis B) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm kết mạc là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm kết mạc thuộc nhóm Mắt, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Vẩy nến (tên tiếng Anh: Psoriasis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Vẩy nến (Psoriasis) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm gan B là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Sai",
+      "explanation": "Viêm gan B thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rối loạn lipid máu (tên tiếng Anh: Hyperlipidemia) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Rối loạn lipid máu (Hyperlipidemia) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Metformin là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Metformin là thuốc Thuốc tiểu đường, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Lo âu là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Lo âu là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Aspirin liều thấp giúp phòng ngừa bệnh tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Aspirin liều thấp được dùng để phòng ngừa tim mạch.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Đột quỵ não (tên tiếng Anh: Stroke) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Đột quỵ não (Stroke) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Trào ngược dạ dày thực quản không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Trào ngược dạ dày thực quản thuộc nhóm Tiêu hóa, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Cúm không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Cúm thuộc nhóm Hô hấp, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Xơ gan (tên tiếng Anh: Cirrhosis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Xơ gan (Cirrhosis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 1 thường xuất hiện ở trẻ em và thanh niên.",
+      "answer": "Đúng",
+      "explanation": "Tiểu đường type 1 thường phát bệnh ở độ tuổi trẻ.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Paracetamol là thuốc giảm đau và hạ sốt an toàn.",
+      "answer": "Đúng",
+      "explanation": "Paracetamol an toàn khi dùng đúng liều.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Clopidogrel cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Clopidogrel - Kháng kết tập tiểu cầu - Phòng ngừa huyết khối",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm phổi là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm phổi thuộc nhóm Hô hấp, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Tiểu đường type 2 có mã ICD-10 là E11.",
+      "answer": "Đúng",
+      "explanation": "Tiểu đường type 2 (Type 2 diabetes) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đục thủy tinh thể là một bệnh thuộc nhóm Mắt.",
+      "answer": "Đúng",
+      "explanation": "Đục thủy tinh thể (Cataract) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mệt mỏi là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Mệt mỏi - Cảm giác kiệt sức",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư tuyến tiền liệt không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Ung thư tuyến tiền liệt thuộc nhóm Ung thư, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi mật (tên tiếng Anh: Gallstones) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Sỏi mật (Gallstones) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Vẩy nến là một bệnh thuộc nhóm Da liễu.",
+      "answer": "Đúng",
+      "explanation": "Vẩy nến (Psoriasis) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mụn trứng cá là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Mụn trứng cá thuộc nhóm Da liễu, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đau thắt ngực không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Đau thắt ngực thuộc nhóm Tim mạch, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Tim đập nhanh được gọi là Palpitations trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Tim đập nhanh - Cảm nhận tim đập mạnh",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm kết mạc có mã ICD-10 là H10.",
+      "answer": "Đúng",
+      "explanation": "Viêm kết mạc (Conjunctivitis) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Phì đại tuyến tiền liệt là một bệnh thuộc nhóm Tiết niệu.",
+      "answer": "Đúng",
+      "explanation": "Phì đại tuyến tiền liệt (BPH) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm bàng quang là một bệnh thuộc nhóm Tiết niệu.",
+      "answer": "Đúng",
+      "explanation": "Viêm bàng quang (Cystitis) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm lạnh thông thường là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Sai",
+      "explanation": "Cảm lạnh thông thường thuộc nhóm Hô hấp, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm gan B (tên tiếng Anh: Hepatitis B) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm gan B (Hepatitis B) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh phổi tắc nghẽn mãn tính (tên tiếng Anh: COPD) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh phổi tắc nghẽn mãn tính (COPD) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đau nửa đầu không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Đau nửa đầu thuộc nhóm Thần kinh, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Ho được gọi là Cough trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Ho - Phản xạ đẩy không khí ra khỏi phổi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Prednisolone cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Prednisolone - Corticosteroid - Viêm, dị ứng nặng",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh gout là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Đúng",
+      "explanation": "Bệnh gout (Gout) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau nửa đầu Migraine chỉ đau một bên đầu.",
+      "answer": "Sai",
+      "explanation": "Migraine có thể đau một bên hoặc hai bên đầu.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Viêm phổi là một bệnh thuộc nhóm Mắt.",
+      "answer": "Sai",
+      "explanation": "Viêm phổi thuộc nhóm Hô hấp, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng huyết áp là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Tăng huyết áp (Hypertension) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm amidan là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm amidan thuộc nhóm Hô hấp, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Suy tim là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Sai",
+      "explanation": "Suy tim thuộc nhóm Tim mạch, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc kháng viêm NSAIDs có thể gây loét dạ dày.",
+      "answer": "Đúng",
+      "explanation": "NSAIDs là nguyên nhân gây loét dạ dày thường gặp.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Bệnh Parkinson là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Sai",
+      "explanation": "Bệnh Parkinson thuộc nhóm Thần kinh, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Mất ngủ không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Mất ngủ là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ho gà không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Ho gà thuộc nhóm Bệnh truyền nhiễm, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư gan có mã ICD-10 là C22.",
+      "answer": "Đúng",
+      "explanation": "Ung thư gan (Liver cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thủy đậu là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thủy đậu (Chickenpox) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nghẹt mũi là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Nghẹt mũi - Tắc mũi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Hội chứng ruột kích thích không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Hội chứng ruột kích thích thuộc nhóm Tiêu hóa, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Mề đay không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Mề đay thuộc nhóm Da liễu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm phế quản cấp không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm phế quản cấp thuộc nhóm Hô hấp, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày ruột là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm dạ dày ruột thuộc nhóm Bệnh truyền nhiễm, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm đường hô hấp trên không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm đường hô hấp trên thuộc nhóm Hô hấp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh lao phổi (tên tiếng Anh: Tuberculosis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh lao phổi (Tuberculosis) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiêu chảy là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Tiêu chảy là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi thận là một bệnh thuộc nhóm Da liễu.",
+      "answer": "Sai",
+      "explanation": "Sỏi thận thuộc nhóm Tiết niệu, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư tuyến tiền liệt là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Đúng",
+      "explanation": "Ung thư tuyến tiền liệt (Prostate cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rối loạn lo âu là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Rối loạn lo âu thuộc nhóm Tâm thần, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Xơ gan là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Đúng",
+      "explanation": "Xơ gan (Cirrhosis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm giác quay cuồng là biểu hiện của triệu chứng Chóng mặt.",
+      "answer": "Đúng",
+      "explanation": "Chóng mặt - Cảm giác quay cuồng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Đúng",
+      "explanation": "Viêm dạ dày (Gastritis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Metformin được chỉ định điều trị Tiểu đường type 2.",
+      "answer": "Đúng",
+      "explanation": "Metformin - Thuốc tiểu đường - Tiểu đường type 2",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mề đay là một bệnh thuộc nhóm Da liễu.",
+      "answer": "Đúng",
+      "explanation": "Mề đay (Urticaria) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm khớp dạng thấp không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm khớp dạng thấp thuộc nhóm Cơ xương khớp, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư gan là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Đúng",
+      "explanation": "Ung thư gan (Liver cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Amlodipine là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Amlodipine là thuốc Thuốc huyết áp, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Cảm lạnh thông thường không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Cảm lạnh thông thường thuộc nhóm Hô hấp, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Béo phì là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Béo phì thuộc nhóm Nội tiết, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Táo bón là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Táo bón là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Omeprazole là thuốc thuộc nhóm Thuốc dạ dày.",
+      "answer": "Đúng",
+      "explanation": "Omeprazole - Thuốc dạ dày - Trào ngược, loét dạ dày",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Động kinh không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Động kinh thuộc nhóm Thần kinh, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau lưng là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Đau lưng là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm phế quản cấp là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Viêm phế quản cấp (Acute bronchitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Rối loạn lo âu không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Rối loạn lo âu thuộc nhóm Tâm thần, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Phụ nữ mang thai cần bổ sung acid folic.",
+      "answer": "Đúng",
+      "explanation": "Acid folic ngăn ngừa dị tật ống thần kinh thai nhi.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Khó khăn khi hít thở là biểu hiện của triệu chứng Khó thở.",
+      "answer": "Đúng",
+      "explanation": "Khó thở - Khó khăn khi hít thở",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư tuyến tiền liệt là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Sai",
+      "explanation": "Ung thư tuyến tiền liệt thuộc nhóm Ung thư, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Amoxicillin cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Amoxicillin - Kháng sinh - Nhiễm khuẩn đường hô hấp, tiết niệu",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau ngực được gọi là Chest pain trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Đau ngực - Cảm giác đau ở vùng ngực",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Atorvastatin là thuốc thuộc nhóm Thuốc mỡ máu.",
+      "answer": "Đúng",
+      "explanation": "Atorvastatin - Thuốc mỡ máu - Rối loạn lipid máu",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh phổi tắc nghẽn mãn tính không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh phổi tắc nghẽn mãn tính thuộc nhóm Hô hấp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh gout có mã ICD-10 là M10.",
+      "answer": "Đúng",
+      "explanation": "Bệnh gout (Gout) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau họng là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Đau họng là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Paracetamol cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Paracetamol - Giảm đau hạ sốt - Hạ sốt, giảm đau nhẹ đến vừa",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau ngực là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Đau ngực - Cảm giác đau ở vùng ngực",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau thắt ngực là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Đau thắt ngực thuộc nhóm Tim mạch, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi mật là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Sai",
+      "explanation": "Sỏi mật thuộc nhóm Tiêu hóa, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Loãng xương có mã ICD-10 là M81.",
+      "answer": "Đúng",
+      "explanation": "Loãng xương (Osteoporosis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Mụn trứng cá không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Mụn trứng cá thuộc nhóm Da liễu, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Xơ gan có mã ICD-10 là K74.",
+      "answer": "Đúng",
+      "explanation": "Xơ gan (Cirrhosis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ngủ đủ 7-8 tiếng mỗi đêm tốt cho sức khỏe.",
+      "answer": "Đúng",
+      "explanation": "Giấc ngủ đủ giờ giúp phục hồi cơ thể và tinh thần.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Động kinh là tình trạng các tế bào não hoạt động bất thường gây co giật.",
+      "answer": "Đúng",
+      "explanation": "Động kinh do hoạt động điện bất thường của não.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Omeprazole là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Omeprazole là thuốc Thuốc dạ dày, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng huyết áp là khi huyết áp cao hơn 140/90 mmHg.",
+      "answer": "Đúng",
+      "explanation": "Theo WHO, huyết áp ≥140/90 mmHg được coi là tăng huyết áp.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Thuốc Aspirin có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Aspirin là thuốc Kháng kết tập tiểu cầu, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm amidan không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm amidan thuộc nhóm Hô hấp, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Suy tim có mã ICD-10 là I50.",
+      "answer": "Đúng",
+      "explanation": "Suy tim (Heart failure) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 2 là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Tiểu đường type 2 thuộc nhóm Nội tiết, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm bàng quang là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm bàng quang thuộc nhóm Tiết niệu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Nghẹt mũi được gọi là Nasal congestion trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Nghẹt mũi - Tắc mũi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm dạ dày ruột không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm dạ dày ruột thuộc nhóm Bệnh truyền nhiễm, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm ruột thừa không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm ruột thừa thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Alzheimer (tên tiếng Anh: Alzheimer disease) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh Alzheimer (Alzheimer disease) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Nôn không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Nôn là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hội chứng ruột kích thích (tên tiếng Anh: IBS) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Hội chứng ruột kích thích (IBS) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm gan A là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Sai",
+      "explanation": "Viêm gan A thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Loãng xương là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Loãng xương thuộc nhóm Cơ xương khớp, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh phổi tắc nghẽn mãn tính là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Bệnh phổi tắc nghẽn mãn tính (COPD) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mề đay (tên tiếng Anh: Urticaria) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Mề đay (Urticaria) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cetirizine cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Cetirizine - Kháng histamin - Dị ứng, mề đay",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh tả là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Sai",
+      "explanation": "Bệnh tả thuộc nhóm Bệnh truyền nhiễm, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Aspirin được chỉ định điều trị Phòng ngừa tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Aspirin - Kháng kết tập tiểu cầu - Phòng ngừa tim mạch",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Parkinson là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh Parkinson thuộc nhóm Thần kinh, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Suy tim là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Suy tim (Heart failure) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh lao phổi là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh lao phổi thuộc nhóm Bệnh truyền nhiễm, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm ruột thừa là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm ruột thừa thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau bụng không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Đau bụng là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Chảy dịch mũi là biểu hiện của triệu chứng Sổ mũi.",
+      "answer": "Đúng",
+      "explanation": "Sổ mũi - Chảy dịch mũi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thủy đậu là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Bệnh thủy đậu thuộc nhóm Bệnh truyền nhiễm, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Cetirizine có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Cetirizine là thuốc Kháng histamin, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh sởi là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh sởi thuộc nhóm Bệnh truyền nhiễm, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Xơ gan là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Xơ gan thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ho gà là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Ho gà thuộc nhóm Bệnh truyền nhiễm, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Tăng huyết áp không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Tăng huyết áp thuộc nhóm Tim mạch, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Sụt cân được gọi là Weight loss trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Sụt cân - Giảm cân không chủ ý",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm da cơ địa là một bệnh thuộc nhóm Da liễu.",
+      "answer": "Đúng",
+      "explanation": "Viêm da cơ địa (Atopic dermatitis) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm lạnh thông thường (tên tiếng Anh: Common cold) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Cảm lạnh thông thường (Common cold) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm amidan là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Sai",
+      "explanation": "Viêm amidan thuộc nhóm Hô hấp, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Trầm cảm không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Trầm cảm là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Loét dạ dày là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Đúng",
+      "explanation": "Loét dạ dày (Gastric ulcer) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư gan (tên tiếng Anh: Liver cancer) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Ung thư gan (Liver cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Suy tim không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Suy tim thuộc nhóm Tim mạch, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Nôn được gọi là Vomiting trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Nôn - Tống thức ăn ra khỏi dạ dày",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh thủy đậu không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh thủy đậu thuộc nhóm Bệnh truyền nhiễm, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Phì đại tuyến tiền liệt (tên tiếng Anh: BPH) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Phì đại tuyến tiền liệt (BPH) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau ngực không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Đau ngực là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thân nhiệt cao hơn bình thường là biểu hiện của triệu chứng Sốt.",
+      "answer": "Đúng",
+      "explanation": "Sốt - Thân nhiệt cao hơn bình thường",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau họng là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Đau họng - Đau rát ở cổ họng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ibuprofen là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Ibuprofen là thuốc Kháng viêm NSAIDs, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Loét dạ dày không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Loét dạ dày thuộc nhóm Tiêu hóa, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh tả là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Bệnh tả (Cholera) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Parkinson là một bệnh thuộc nhóm Thần kinh.",
+      "answer": "Đúng",
+      "explanation": "Bệnh Parkinson (Parkinson disease) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Mệt mỏi không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Mệt mỏi là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh lao phổi là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Bệnh lao phổi (Tuberculosis) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư phổi là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Ung thư phổi thuộc nhóm Ung thư, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh gout không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh gout thuộc nhóm Cơ xương khớp, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Uống đủ nước mỗi ngày (2-3 lít) tốt cho sức khỏe.",
+      "answer": "Đúng",
+      "explanation": "Nước cần thiết cho mọi hoạt động của cơ thể.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Mệt mỏi là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Mệt mỏi là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm đường hô hấp trên (tên tiếng Anh: Upper respiratory infection) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm đường hô hấp trên (Upper respiratory infection) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 2 là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Sai",
+      "explanation": "Tiểu đường type 2 thuộc nhóm Nội tiết, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày (tên tiếng Anh: Gastritis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm dạ dày (Gastritis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Loét dạ dày có mã ICD-10 là K25.",
+      "answer": "Đúng",
+      "explanation": "Loét dạ dày (Gastric ulcer) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh tả là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh tả thuộc nhóm Bệnh truyền nhiễm, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh HIV/AIDS không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh HIV/AIDS thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm da cơ địa có mã ICD-10 là L20.",
+      "answer": "Đúng",
+      "explanation": "Viêm da cơ địa (Atopic dermatitis) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm phế quản cấp là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm phế quản cấp thuộc nhóm Hô hấp, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư vú có mã ICD-10 là C50.",
+      "answer": "Đúng",
+      "explanation": "Ung thư vú (Breast cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoát vị đĩa đệm là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Thoát vị đĩa đệm thuộc nhóm Cơ xương khớp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư dạ dày là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Ung thư dạ dày thuộc nhóm Ung thư, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Mụn trứng cá có mã ICD-10 là L70.",
+      "answer": "Đúng",
+      "explanation": "Mụn trứng cá (Acne) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau rát ở cổ họng là biểu hiện của triệu chứng Đau họng.",
+      "answer": "Đúng",
+      "explanation": "Đau họng - Đau rát ở cổ họng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh trĩ là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh trĩ thuộc nhóm Tim mạch, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Sổ mũi được gọi là Runny nose trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Sổ mũi - Chảy dịch mũi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thận mãn (tên tiếng Anh: Chronic kidney disease) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thận mãn (Chronic kidney disease) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Khó thở là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Khó thở là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Buồn nôn được gọi là Nausea trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Buồn nôn - Cảm giác muốn nôn",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sưng là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Sưng - Phù nề do tích tụ dịch",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư phổi (tên tiếng Anh: Lung cancer) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Ung thư phổi (Lung cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Sụt cân không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Sụt cân là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Táo bón không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Táo bón là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Losartan cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Losartan - Thuốc huyết áp - Tăng huyết áp",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiêu chảy là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Tiêu chảy - Đi ngoài phân lỏng nhiều lần",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi mật là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Sỏi mật thuộc nhóm Tiêu hóa, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm gan A là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Viêm gan A (Hepatitis A) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Alzheimer là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh Alzheimer thuộc nhóm Thần kinh, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Amoxicillin là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Amoxicillin là thuốc Kháng sinh, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh gout do acid uric tích tụ trong khớp.",
+      "answer": "Đúng",
+      "explanation": "Gout do tinh thể urat lắng đọng trong khớp.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Bệnh thương hàn là một bệnh thuộc nhóm Tiết niệu.",
+      "answer": "Sai",
+      "explanation": "Bệnh thương hàn thuộc nhóm Bệnh truyền nhiễm, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Chóng mặt là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Chóng mặt là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh HIV/AIDS (tên tiếng Anh: HIV disease) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh HIV/AIDS (HIV disease) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sổ mũi là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Sổ mũi - Chảy dịch mũi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Lo âu là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Lo âu - Cảm giác lo lắng, bồn chồn",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư gan không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Ung thư gan thuộc nhóm Ung thư, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Cúm có mã ICD-10 là J10.",
+      "answer": "Đúng",
+      "explanation": "Cúm (Influenza) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Động kinh có mã ICD-10 là G40.",
+      "answer": "Đúng",
+      "explanation": "Động kinh (Epilepsy) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Chóng mặt được gọi là Dizziness trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Chóng mặt - Cảm giác quay cuồng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Alzheimer là một bệnh thuộc nhóm Mắt.",
+      "answer": "Sai",
+      "explanation": "Bệnh Alzheimer thuộc nhóm Thần kinh, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Sổ mũi không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Sổ mũi là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau bụng được gọi là Abdominal pain trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Đau bụng - Đau ở vùng bụng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Ibuprofen có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Ibuprofen là thuốc Kháng viêm NSAIDs, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau ở vùng bụng là biểu hiện của triệu chứng Đau bụng.",
+      "answer": "Đúng",
+      "explanation": "Đau bụng - Đau ở vùng bụng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Táo bón được gọi là Constipation trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Táo bón - Khó đi ngoài",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi thận là một bệnh thuộc nhóm Tiết niệu.",
+      "answer": "Đúng",
+      "explanation": "Sỏi thận (Kidney stones) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh trĩ là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Bệnh trĩ (Hemorrhoids) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau đầu là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Đau đầu - Đau ở vùng đầu",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh tả (tên tiếng Anh: Cholera) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh tả (Cholera) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm kết mạc là một bệnh thuộc nhóm Mắt.",
+      "answer": "Đúng",
+      "explanation": "Viêm kết mạc (Conjunctivitis) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau thắt ngực là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Đau thắt ngực (Angina pectoris) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Clopidogrel có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Clopidogrel là thuốc Kháng kết tập tiểu cầu, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Sỏi mật có mã ICD-10 là K80.",
+      "answer": "Đúng",
+      "explanation": "Sỏi mật (Gallstones) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sốt là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Sốt là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm họng có mã ICD-10 là J02.",
+      "answer": "Đúng",
+      "explanation": "Viêm họng (Pharyngitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Sưng không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Sưng là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau bụng là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Đau bụng là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh HIV/AIDS là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Bệnh HIV/AIDS (HIV disease) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Vẩy nến không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Vẩy nến thuộc nhóm Da liễu, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau lưng là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Đau lưng thuộc nhóm Cơ xương khớp, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng huyết áp là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Sai",
+      "explanation": "Tăng huyết áp thuộc nhóm Tim mạch, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Amlodipine được chỉ định điều trị Tăng huyết áp, đau thắt ngực.",
+      "answer": "Đúng",
+      "explanation": "Amlodipine - Thuốc huyết áp - Tăng huyết áp, đau thắt ngực",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hội chứng ruột kích thích là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Sai",
+      "explanation": "Hội chứng ruột kích thích thuộc nhóm Tiêu hóa, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm kết mạc là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Sai",
+      "explanation": "Viêm kết mạc thuộc nhóm Mắt, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm khớp dạng thấp là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm khớp dạng thấp thuộc nhóm Cơ xương khớp, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thận mãn là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh thận mãn thuộc nhóm Tiết niệu, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh Parkinson có mã ICD-10 là G20.",
+      "answer": "Đúng",
+      "explanation": "Bệnh Parkinson (Parkinson disease) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm dạ dày không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm dạ dày thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Mất ngủ được gọi là Insomnia trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Mất ngủ - Khó ngủ hoặc ngủ không sâu",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Parkinson (tên tiếng Anh: Parkinson disease) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh Parkinson (Parkinson disease) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Metformin là thuốc thuộc nhóm Thuốc tiểu đường.",
+      "answer": "Đúng",
+      "explanation": "Metformin - Thuốc tiểu đường - Tiểu đường type 2",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Ngứa không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Ngứa là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm khớp dạng thấp là một bệnh thuộc nhóm Thần kinh.",
+      "answer": "Sai",
+      "explanation": "Viêm khớp dạng thấp thuộc nhóm Cơ xương khớp, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm bàng quang có mã ICD-10 là N30.",
+      "answer": "Đúng",
+      "explanation": "Viêm bàng quang (Cystitis) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Hen suyễn có mã ICD-10 là J45.",
+      "answer": "Đúng",
+      "explanation": "Hen suyễn (Asthma) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm giác muốn nôn là biểu hiện của triệu chứng Buồn nôn.",
+      "answer": "Đúng",
+      "explanation": "Buồn nôn - Cảm giác muốn nôn",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Mề đay có mã ICD-10 là L50.",
+      "answer": "Đúng",
+      "explanation": "Mề đay (Urticaria) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ho gà có mã ICD-10 là A37.",
+      "answer": "Đúng",
+      "explanation": "Ho gà (Whooping cough) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau ngực là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Đau ngực là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ho kéo dài trên 3 tuần có thể là triệu chứng của lao phổi.",
+      "answer": "Đúng",
+      "explanation": "Ho kéo dài là triệu chứng cần nghĩ đến lao phổi.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Đau ở vùng đầu là biểu hiện của triệu chứng Đau đầu.",
+      "answer": "Đúng",
+      "explanation": "Đau đầu - Đau ở vùng đầu",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Omeprazole có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Omeprazole là thuốc Thuốc dạ dày, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh tả có mã ICD-10 là A00.",
+      "answer": "Đúng",
+      "explanation": "Bệnh tả (Cholera) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đục thủy tinh thể (tên tiếng Anh: Cataract) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Đục thủy tinh thể (Cataract) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh HIV/AIDS có mã ICD-10 là B20.",
+      "answer": "Đúng",
+      "explanation": "Bệnh HIV/AIDS (HIV disease) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Tiểu đường type 1 không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Tiểu đường type 1 thuộc nhóm Nội tiết, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư đại tràng là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Đúng",
+      "explanation": "Ung thư đại tràng (Colon cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng nhãn áp là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Sai",
+      "explanation": "Tăng nhãn áp thuộc nhóm Mắt, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Salbutamol được chỉ định điều trị Hen suyễn, COPD.",
+      "answer": "Đúng",
+      "explanation": "Salbutamol - Thuốc hen - Hen suyễn, COPD",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mụn trứng cá là một bệnh thuộc nhóm Da liễu.",
+      "answer": "Đúng",
+      "explanation": "Mụn trứng cá (Acne) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trào ngược dạ dày thực quản là một bệnh thuộc nhóm Mắt.",
+      "answer": "Sai",
+      "explanation": "Trào ngược dạ dày thực quản thuộc nhóm Tiêu hóa, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Viêm dạ dày thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh lao phổi là một bệnh thuộc nhóm Mắt.",
+      "answer": "Sai",
+      "explanation": "Bệnh lao phổi thuộc nhóm Bệnh truyền nhiễm, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Chóng mặt là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Chóng mặt - Cảm giác quay cuồng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau lưng là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Đúng",
+      "explanation": "Đau lưng (Back pain) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh phổi tắc nghẽn mãn tính có mã ICD-10 là J44.",
+      "answer": "Đúng",
+      "explanation": "Bệnh phổi tắc nghẽn mãn tính (COPD) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đột quỵ não là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Sai",
+      "explanation": "Đột quỵ não thuộc nhóm Tim mạch, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh Parkinson không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh Parkinson thuộc nhóm Thần kinh, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mề đay là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Sai",
+      "explanation": "Mề đay thuộc nhóm Da liễu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thương hàn (tên tiếng Anh: Typhoid fever) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thương hàn (Typhoid fever) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Paracetamol được chỉ định điều trị Hạ sốt, giảm đau nhẹ đến vừa.",
+      "answer": "Đúng",
+      "explanation": "Paracetamol - Giảm đau hạ sốt - Hạ sốt, giảm đau nhẹ đến vừa",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Prednisolone có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Prednisolone là thuốc Corticosteroid, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ho gà là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Ho gà (Whooping cough) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Suy tim (tên tiếng Anh: Heart failure) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Suy tim (Heart failure) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm dạ dày có mã ICD-10 là K29.",
+      "answer": "Đúng",
+      "explanation": "Viêm dạ dày (Gastritis) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mất ngủ là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Mất ngủ là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Atorvastatin được chỉ định điều trị Rối loạn lipid máu.",
+      "answer": "Đúng",
+      "explanation": "Atorvastatin - Thuốc mỡ máu - Rối loạn lipid máu",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoát vị đĩa đệm (tên tiếng Anh: Disc herniation) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Thoát vị đĩa đệm (Disc herniation) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoái hóa khớp gối là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Thoái hóa khớp gối thuộc nhóm Cơ xương khớp, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm da cơ địa không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm da cơ địa thuộc nhóm Da liễu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Azithromycin là thuốc thuộc nhóm Kháng sinh.",
+      "answer": "Đúng",
+      "explanation": "Azithromycin - Kháng sinh - Nhiễm khuẩn hô hấp, da",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nhồi máu cơ tim là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Sai",
+      "explanation": "Nhồi máu cơ tim thuộc nhóm Tim mạch, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Clopidogrel được chỉ định điều trị Phòng ngừa huyết khối.",
+      "answer": "Đúng",
+      "explanation": "Clopidogrel - Kháng kết tập tiểu cầu - Phòng ngừa huyết khối",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh phổi tắc nghẽn mãn tính là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Sai",
+      "explanation": "Bệnh phổi tắc nghẽn mãn tính thuộc nhóm Hô hấp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh thận mãn có mã ICD-10 là N18.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thận mãn (Chronic kidney disease) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Amoxicillin có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Amoxicillin là thuốc Kháng sinh, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Người tiểu đường không được ăn trái cây.",
+      "answer": "Sai",
+      "explanation": "Người tiểu đường có thể ăn trái cây với lượng vừa phải.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Bệnh Rối loạn lipid máu không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Rối loạn lipid máu thuộc nhóm Nội tiết, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau thắt ngực là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Sai",
+      "explanation": "Đau thắt ngực thuộc nhóm Tim mạch, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thoái hóa khớp gối là một bệnh thuộc nhóm Da liễu.",
+      "answer": "Sai",
+      "explanation": "Thoái hóa khớp gối thuộc nhóm Cơ xương khớp, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ibuprofen cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Ibuprofen - Kháng viêm NSAIDs - Giảm đau, kháng viêm, hạ sốt",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Phì đại tuyến tiền liệt có mã ICD-10 là N40.",
+      "answer": "Đúng",
+      "explanation": "Phì đại tuyến tiền liệt (BPH) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Ngứa được gọi là Itching trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Ngứa - Cảm giác muốn gãi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thương hàn là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh thương hàn thuộc nhóm Bệnh truyền nhiễm, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mụn trứng cá là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Mụn trứng cá thuộc nhóm Da liễu, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thương hàn là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thương hàn (Typhoid fever) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm dạ dày ruột có mã ICD-10 là A09.",
+      "answer": "Đúng",
+      "explanation": "Viêm dạ dày ruột (Gastroenteritis) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau họng không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Đau họng là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Phát ban được gọi là Rash trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Phát ban - Thay đổi màu sắc da",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Phì đại tuyến tiền liệt là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Sai",
+      "explanation": "Phì đại tuyến tiền liệt thuộc nhóm Tiết niệu, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau ở các khớp là biểu hiện của triệu chứng Đau khớp.",
+      "answer": "Đúng",
+      "explanation": "Đau khớp - Đau ở các khớp",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm phổi là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Viêm phổi (Pneumonia) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Ho không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Ho là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Aspirin cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Aspirin - Kháng kết tập tiểu cầu - Phòng ngừa tim mạch",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh Alzheimer không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh Alzheimer thuộc nhóm Thần kinh, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi mật hình thành do cholesterol kết tụ.",
+      "answer": "Đúng",
+      "explanation": "Phần lớn sỏi mật là sỏi cholesterol.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Loét dạ dày là một bệnh thuộc nhóm Tiết niệu.",
+      "answer": "Sai",
+      "explanation": "Loét dạ dày thuộc nhóm Tiêu hóa, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Vitamin D giúp hấp thu canxi và tốt cho xương.",
+      "answer": "Đúng",
+      "explanation": "Vitamin D cần thiết cho hấp thu canxi.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Ung thư dạ dày là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Sai",
+      "explanation": "Ung thư dạ dày thuộc nhóm Ung thư, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Phì đại tuyến tiền liệt không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Phì đại tuyến tiền liệt thuộc nhóm Tiết niệu, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Suy tim là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Suy tim thuộc nhóm Tim mạch, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng nhãn áp là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Tăng nhãn áp thuộc nhóm Mắt, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trầm cảm là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Trầm cảm thuộc nhóm Tâm thần, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tim đập nhanh là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Tim đập nhanh - Cảm nhận tim đập mạnh",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Thoát vị đĩa đệm không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Thoát vị đĩa đệm thuộc nhóm Cơ xương khớp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Sốt không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Sốt là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Losartan có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Losartan là thuốc Thuốc huyết áp, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm phổi có mã ICD-10 là J18.",
+      "answer": "Đúng",
+      "explanation": "Viêm phổi (Pneumonia) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hen suyễn (tên tiếng Anh: Asthma) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Hen suyễn (Asthma) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư vú là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Ung thư vú thuộc nhóm Ung thư, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Buồn nôn là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Buồn nôn - Cảm giác muốn nôn",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Amoxicillin là thuốc thuộc nhóm Kháng sinh.",
+      "answer": "Đúng",
+      "explanation": "Amoxicillin - Kháng sinh - Nhiễm khuẩn đường hô hấp, tiết niệu",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng huyết áp (tên tiếng Anh: Hypertension) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Tăng huyết áp (Hypertension) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Aspirin là thuốc thuộc nhóm Kháng kết tập tiểu cầu.",
+      "answer": "Đúng",
+      "explanation": "Aspirin - Kháng kết tập tiểu cầu - Phòng ngừa tim mạch",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Sỏi thận không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Sỏi thận thuộc nhóm Tiết niệu, không phải Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Phát ban là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Phát ban - Thay đổi màu sắc da",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Atorvastatin có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Atorvastatin là thuốc Thuốc mỡ máu, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Diclofenac là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Diclofenac là thuốc Kháng viêm NSAIDs, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 2 (tên tiếng Anh: Type 2 diabetes) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Tiểu đường type 2 (Type 2 diabetes) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh sởi là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Đúng",
+      "explanation": "Bệnh sởi (Measles) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau nửa đầu là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Đau nửa đầu thuộc nhóm Thần kinh, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hen suyễn là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Sai",
+      "explanation": "Hen suyễn thuộc nhóm Hô hấp, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm kết mạc (tên tiếng Anh: Conjunctivitis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm kết mạc (Conjunctivitis) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Tiêu chảy được gọi là Diarrhea trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Tiêu chảy - Đi ngoài phân lỏng nhiều lần",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm khớp dạng thấp là một bệnh thuộc nhóm Cơ xương khớp.",
+      "answer": "Đúng",
+      "explanation": "Viêm khớp dạng thấp (Rheumatoid arthritis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm giác đau ở vùng ngực là biểu hiện của triệu chứng Đau ngực.",
+      "answer": "Đúng",
+      "explanation": "Đau ngực - Cảm giác đau ở vùng ngực",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Ung thư phổi không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Ung thư phổi thuộc nhóm Ung thư, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm khớp dạng thấp có mã ICD-10 là M05.",
+      "answer": "Đúng",
+      "explanation": "Viêm khớp dạng thấp (Rheumatoid arthritis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mụn trứng cá (tên tiếng Anh: Acne) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Mụn trứng cá (Acne) thuộc nhóm Da liễu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sổ mũi là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Sổ mũi là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau lưng không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Đau lưng là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm đường hô hấp trên là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Viêm đường hô hấp trên (Upper respiratory infection) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm họng là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm họng thuộc nhóm Hô hấp, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rối loạn lo âu (tên tiếng Anh: Anxiety disorder) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Rối loạn lo âu (Anxiety disorder) thuộc nhóm Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Azithromycin có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Azithromycin là thuốc Kháng sinh, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Aspirin là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Aspirin là thuốc Kháng kết tập tiểu cầu, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đau lưng không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Đau lưng thuộc nhóm Cơ xương khớp, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau khớp được gọi là Joint pain trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Đau khớp - Đau ở các khớp",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Đục thủy tinh thể có mã ICD-10 là H25.",
+      "answer": "Đúng",
+      "explanation": "Đục thủy tinh thể (Cataract) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh trĩ có mã ICD-10 là I84.",
+      "answer": "Đúng",
+      "explanation": "Bệnh trĩ (Hemorrhoids) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm phổi do vi khuẩn cần điều trị bằng kháng sinh.",
+      "answer": "Đúng",
+      "explanation": "Viêm phổi do vi khuẩn cần dùng kháng sinh phù hợp.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Clopidogrel là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Clopidogrel là thuốc Kháng kết tập tiểu cầu, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Khó thở được gọi là Dyspnea trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Khó thở - Khó khăn khi hít thở",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 1 là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Tiểu đường type 1 thuộc nhóm Nội tiết, không phải Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm gan A không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm gan A thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm đường hô hấp trên có mã ICD-10 là J06.",
+      "answer": "Đúng",
+      "explanation": "Viêm đường hô hấp trên (Upper respiratory infection) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm da cơ địa là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Sai",
+      "explanation": "Viêm da cơ địa thuộc nhóm Da liễu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Trầm cảm có mã ICD-10 là F32.",
+      "answer": "Đúng",
+      "explanation": "Trầm cảm (Depression) thuộc nhóm Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Giảm cân không chủ ý là biểu hiện của triệu chứng Sụt cân.",
+      "answer": "Đúng",
+      "explanation": "Sụt cân - Giảm cân không chủ ý",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Tim đập nhanh không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Tim đập nhanh là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Azithromycin là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Azithromycin là thuốc Kháng sinh, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Trầm cảm không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Trầm cảm thuộc nhóm Tâm thần, không phải Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rối loạn lo âu là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Đúng",
+      "explanation": "Rối loạn lo âu (Anxiety disorder) thuộc nhóm Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Buồn bã, mất hứng thú là biểu hiện của triệu chứng Trầm cảm.",
+      "answer": "Đúng",
+      "explanation": "Trầm cảm - Buồn bã, mất hứng thú",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trào ngược dạ dày thực quản là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Trào ngược dạ dày thực quản thuộc nhóm Tiêu hóa, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh thận mãn không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh thận mãn thuộc nhóm Tiết niệu, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Diclofenac cần được sử dụng theo chỉ định của bác sĩ.",
+      "answer": "Đúng",
+      "explanation": "Diclofenac - Kháng viêm NSAIDs - Đau khớp, viêm khớp",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm amidan là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Viêm amidan (Tonsillitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Khó ngủ hoặc ngủ không sâu là biểu hiện của triệu chứng Mất ngủ.",
+      "answer": "Đúng",
+      "explanation": "Mất ngủ - Khó ngủ hoặc ngủ không sâu",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Mất ngủ là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Mất ngủ - Khó ngủ hoặc ngủ không sâu",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh Alzheimer có mã ICD-10 là G30.",
+      "answer": "Đúng",
+      "explanation": "Bệnh Alzheimer (Alzheimer disease) thuộc nhóm Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ăn nhiều muối làm tăng huyết áp.",
+      "answer": "Đúng",
+      "explanation": "Sodium trong muối làm tăng huyết áp.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Ung thư đại tràng là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Ung thư đại tràng thuộc nhóm Ung thư, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau lưng là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Đau lưng - Đau ở vùng lưng",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm đường hô hấp trên là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm đường hô hấp trên thuộc nhóm Hô hấp, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm lạnh thông thường là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Cảm lạnh thông thường thuộc nhóm Hô hấp, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tiểu đường type 1 là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Đúng",
+      "explanation": "Tiểu đường type 1 (Type 1 diabetes) thuộc nhóm Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Vẩy nến là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Sai",
+      "explanation": "Vẩy nến thuộc nhóm Da liễu, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cảm giác kiệt sức là biểu hiện của triệu chứng Mệt mỏi.",
+      "answer": "Đúng",
+      "explanation": "Mệt mỏi - Cảm giác kiệt sức",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trầm cảm là một bệnh thuộc nhóm Tâm thần.",
+      "answer": "Đúng",
+      "explanation": "Trầm cảm (Depression) thuộc nhóm Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm họng là một bệnh thuộc nhóm Hô hấp.",
+      "answer": "Đúng",
+      "explanation": "Viêm họng (Pharyngitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hút thuốc lá làm tăng nguy cơ bệnh tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Hút thuốc là yếu tố nguy cơ chính của bệnh tim mạch.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Triệu chứng Phát ban không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Phát ban là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm phế quản cấp có mã ICD-10 là J20.",
+      "answer": "Đúng",
+      "explanation": "Viêm phế quản cấp (Acute bronchitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Tăng huyết áp có mã ICD-10 là I10.",
+      "answer": "Đúng",
+      "explanation": "Tăng huyết áp (Hypertension) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Động kinh là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Sai",
+      "explanation": "Động kinh thuộc nhóm Thần kinh, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nôn là một loại thuốc, không phải triệu chứng.",
+      "answer": "Sai",
+      "explanation": "Nôn là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm gan A là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm gan A thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Khó đi ngoài là biểu hiện của triệu chứng Táo bón.",
+      "answer": "Đúng",
+      "explanation": "Táo bón - Khó đi ngoài",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Parkinson ảnh hưởng đến khả năng vận động.",
+      "answer": "Đúng",
+      "explanation": "Parkinson gây run, cứng đờ, chậm vận động.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Triệu chứng Đau đầu không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Đau đầu là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Loét dạ dày (tên tiếng Anh: Gastric ulcer) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Loét dạ dày (Gastric ulcer) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư đại tràng (tên tiếng Anh: Colon cancer) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Ung thư đại tràng (Colon cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Salbutamol là một bệnh, không phải thuốc.",
+      "answer": "Sai",
+      "explanation": "Salbutamol là thuốc Thuốc hen, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Động kinh là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Động kinh thuộc nhóm Thần kinh, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tống thức ăn ra khỏi dạ dày là biểu hiện của triệu chứng Nôn.",
+      "answer": "Đúng",
+      "explanation": "Nôn - Tống thức ăn ra khỏi dạ dày",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Táo bón là một triệu chứng y tế cần được theo dõi.",
+      "answer": "Đúng",
+      "explanation": "Táo bón - Khó đi ngoài",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh sởi có mã ICD-10 là B05.",
+      "answer": "Đúng",
+      "explanation": "Bệnh sởi (Measles) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thận mãn là một bệnh thuộc nhóm Thần kinh.",
+      "answer": "Sai",
+      "explanation": "Bệnh thận mãn thuộc nhóm Tiết niệu, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Kháng sinh có thể tiêu diệt virus.",
+      "answer": "Sai",
+      "explanation": "Kháng sinh chỉ có tác dụng với vi khuẩn, không diệt virus.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Viêm phế quản cấp (tên tiếng Anh: Acute bronchitis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm phế quản cấp (Acute bronchitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cúm là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Cúm thuộc nhóm Hô hấp, không phải Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh thủy đậu (tên tiếng Anh: Chickenpox) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thủy đậu (Chickenpox) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trào ngược dạ dày thực quản (tên tiếng Anh: GERD) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Trào ngược dạ dày thực quản (GERD) thuộc nhóm Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Sỏi thận có mã ICD-10 là N20.",
+      "answer": "Đúng",
+      "explanation": "Sỏi thận (Kidney stones) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm họng không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm họng thuộc nhóm Hô hấp, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm phổi (tên tiếng Anh: Pneumonia) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm phổi (Pneumonia) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau khớp không cần quan tâm vì không nguy hiểm.",
+      "answer": "Sai",
+      "explanation": "Đau khớp là triệu chứng, cần được theo dõi",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm họng là một bệnh thuộc nhóm Tiêu hóa.",
+      "answer": "Sai",
+      "explanation": "Viêm họng thuộc nhóm Hô hấp, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đục thủy tinh thể là một bệnh thuộc nhóm Nội tiết.",
+      "answer": "Sai",
+      "explanation": "Đục thủy tinh thể thuộc nhóm Mắt, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Viêm gan B không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Viêm gan B thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư vú là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Đúng",
+      "explanation": "Ung thư vú (Breast cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Clopidogrel là thuốc thuộc nhóm Kháng kết tập tiểu cầu.",
+      "answer": "Đúng",
+      "explanation": "Clopidogrel - Kháng kết tập tiểu cầu - Phòng ngừa huyết khối",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Azithromycin được chỉ định điều trị Nhiễm khuẩn hô hấp, da.",
+      "answer": "Đúng",
+      "explanation": "Azithromycin - Kháng sinh - Nhiễm khuẩn hô hấp, da",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Xơ gan là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Xơ gan thuộc nhóm Tiêu hóa, không phải Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Cetirizine là thuốc thuộc nhóm Kháng histamin.",
+      "answer": "Đúng",
+      "explanation": "Cetirizine - Kháng histamin - Dị ứng, mề đay",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau lưng (tên tiếng Anh: Back pain) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Đau lưng (Back pain) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Nhồi máu cơ tim là một bệnh thuộc nhóm Tim mạch.",
+      "answer": "Đúng",
+      "explanation": "Nhồi máu cơ tim (Myocardial infarction) thuộc nhóm Tim mạch",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh sởi (tên tiếng Anh: Measles) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Bệnh sởi (Measles) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư tuyến tiền liệt (tên tiếng Anh: Prostate cancer) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Ung thư tuyến tiền liệt (Prostate cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Tăng nhãn áp (tên tiếng Anh: Glaucoma) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Tăng nhãn áp (Glaucoma) thuộc nhóm Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh thương hàn có mã ICD-10 là A01.",
+      "answer": "Đúng",
+      "explanation": "Bệnh thương hàn (Typhoid fever) thuộc nhóm Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Rối loạn lipid máu là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Rối loạn lipid máu thuộc nhóm Nội tiết, không phải Thần kinh",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Rối loạn lo âu có mã ICD-10 là F41.",
+      "answer": "Đúng",
+      "explanation": "Rối loạn lo âu (Anxiety disorder) thuộc nhóm Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm amidan (tên tiếng Anh: Tonsillitis) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Viêm amidan (Tonsillitis) thuộc nhóm Hô hấp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Triệu chứng Đau đầu được gọi là Headache trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Đau đầu - Đau ở vùng đầu",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Bệnh sởi không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Bệnh sởi thuộc nhóm Bệnh truyền nhiễm, không phải Mắt",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư tuyến tiền liệt là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Ung thư tuyến tiền liệt thuộc nhóm Ung thư, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Béo phì không cần điều trị y tế.",
+      "answer": "Sai",
+      "explanation": "Béo phì thuộc nhóm Nội tiết, không phải Tâm thần",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Hen suyễn là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Hen suyễn thuộc nhóm Hô hấp, không phải Nội tiết",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Đau lưng là một bệnh thuộc nhóm Bệnh truyền nhiễm.",
+      "answer": "Sai",
+      "explanation": "Đau lưng thuộc nhóm Cơ xương khớp, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm da cơ địa là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Viêm da cơ địa thuộc nhóm Da liễu, không phải Bệnh truyền nhiễm",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Ung thư phổi là một bệnh thuộc nhóm Ung thư.",
+      "answer": "Đúng",
+      "explanation": "Ung thư phổi (Lung cancer) thuộc nhóm Ung thư",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Diclofenac có thể tự ý sử dụng không cần kê đơn bác sĩ.",
+      "answer": "Sai",
+      "explanation": "Diclofenac là thuốc Kháng viêm NSAIDs, cần dùng theo chỉ định",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Thuốc Cetirizine được chỉ định điều trị Dị ứng, mề đay.",
+      "answer": "Đúng",
+      "explanation": "Cetirizine - Kháng histamin - Dị ứng, mề đay",
+      "category": "drugs",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh Thoái hóa khớp gối có mã ICD-10 là M17.",
+      "answer": "Đúng",
+      "explanation": "Thoái hóa khớp gối (Knee osteoarthritis) thuộc nhóm Cơ xương khớp",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Trào ngược dạ dày thực quản gây ợ nóng và ợ chua.",
+      "answer": "Đúng",
+      "explanation": "GERD gây triệu chứng ợ nóng, ợ chua điển hình.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    },
+    {
+      "question": "Triệu chứng Trầm cảm được gọi là Depression trong tiếng Anh.",
+      "answer": "Đúng",
+      "explanation": "Trầm cảm - Buồn bã, mất hứng thú",
+      "category": "symptoms",
+      "source": "template_generated"
+    },
+    {
+      "question": "Bệnh HIV/AIDS là một triệu chứng, không phải bệnh.",
+      "answer": "Sai",
+      "explanation": "Bệnh HIV/AIDS thuộc nhóm Bệnh truyền nhiễm, không phải Tiêu hóa",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Sỏi thận (tên tiếng Anh: Kidney stones) là một bệnh lý cần được điều trị.",
+      "answer": "Đúng",
+      "explanation": "Sỏi thận (Kidney stones) thuộc nhóm Tiết niệu",
+      "category": "diseases",
+      "source": "template_generated"
+    },
+    {
+      "question": "Viêm dạ dày có thể do vi khuẩn H. pylori gây ra.",
+      "answer": "Đúng",
+      "explanation": "H. pylori là nguyên nhân phổ biến của viêm loét dạ dày.",
+      "category": "general_medical",
+      "source": "expert_curated"
+    }
+  ]
+}

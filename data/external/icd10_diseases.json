@@ -1,0 +1,392 @@
+[
+  {
+    "code": "A00",
+    "name_en": "Cholera",
+    "name_vi": "Bệnh tả",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "A01",
+    "name_en": "Typhoid fever",
+    "name_vi": "Bệnh thương hàn",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "A09",
+    "name_en": "Gastroenteritis",
+    "name_vi": "Viêm dạ dày ruột",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "A15",
+    "name_en": "Tuberculosis",
+    "name_vi": "Bệnh lao phổi",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "A37",
+    "name_en": "Whooping cough",
+    "name_vi": "Ho gà",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "B01",
+    "name_en": "Chickenpox",
+    "name_vi": "Bệnh thủy đậu",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "B05",
+    "name_en": "Measles",
+    "name_vi": "Bệnh sởi",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "B15",
+    "name_en": "Hepatitis A",
+    "name_vi": "Viêm gan A",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "B16",
+    "name_en": "Hepatitis B",
+    "name_vi": "Viêm gan B",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "B20",
+    "name_en": "HIV disease",
+    "name_vi": "Bệnh HIV/AIDS",
+    "category": "Bệnh truyền nhiễm"
+  },
+  {
+    "code": "C16",
+    "name_en": "Stomach cancer",
+    "name_vi": "Ung thư dạ dày",
+    "category": "Ung thư"
+  },
+  {
+    "code": "C18",
+    "name_en": "Colon cancer",
+    "name_vi": "Ung thư đại tràng",
+    "category": "Ung thư"
+  },
+  {
+    "code": "C22",
+    "name_en": "Liver cancer",
+    "name_vi": "Ung thư gan",
+    "category": "Ung thư"
+  },
+  {
+    "code": "C34",
+    "name_en": "Lung cancer",
+    "name_vi": "Ung thư phổi",
+    "category": "Ung thư"
+  },
+  {
+    "code": "C50",
+    "name_en": "Breast cancer",
+    "name_vi": "Ung thư vú",
+    "category": "Ung thư"
+  },
+  {
+    "code": "C61",
+    "name_en": "Prostate cancer",
+    "name_vi": "Ung thư tuyến tiền liệt",
+    "category": "Ung thư"
+  },
+  {
+    "code": "E10",
+    "name_en": "Type 1 diabetes",
+    "name_vi": "Tiểu đường type 1",
+    "category": "Nội tiết"
+  },
+  {
+    "code": "E11",
+    "name_en": "Type 2 diabetes",
+    "name_vi": "Tiểu đường type 2",
+    "category": "Nội tiết"
+  },
+  {
+    "code": "E66",
+    "name_en": "Obesity",
+    "name_vi": "Béo phì",
+    "category": "Nội tiết"
+  },
+  {
+    "code": "E78",
+    "name_en": "Hyperlipidemia",
+    "name_vi": "Rối loạn lipid máu",
+    "category": "Nội tiết"
+  },
+  {
+    "code": "F32",
+    "name_en": "Depression",
+    "name_vi": "Trầm cảm",
+    "category": "Tâm thần"
+  },
+  {
+    "code": "F41",
+    "name_en": "Anxiety disorder",
+    "name_vi": "Rối loạn lo âu",
+    "category": "Tâm thần"
+  },
+  {
+    "code": "G20",
+    "name_en": "Parkinson disease",
+    "name_vi": "Bệnh Parkinson",
+    "category": "Thần kinh"
+  },
+  {
+    "code": "G30",
+    "name_en": "Alzheimer disease",
+    "name_vi": "Bệnh Alzheimer",
+    "category": "Thần kinh"
+  },
+  {
+    "code": "G40",
+    "name_en": "Epilepsy",
+    "name_vi": "Động kinh",
+    "category": "Thần kinh"
+  },
+  {
+    "code": "G43",
+    "name_en": "Migraine",
+    "name_vi": "Đau nửa đầu",
+    "category": "Thần kinh"
+  },
+  {
+    "code": "H10",
+    "name_en": "Conjunctivitis",
+    "name_vi": "Viêm kết mạc",
+    "category": "Mắt"
+  },
+  {
+    "code": "H25",
+    "name_en": "Cataract",
+    "name_vi": "Đục thủy tinh thể",
+    "category": "Mắt"
+  },
+  {
+    "code": "H40",
+    "name_en": "Glaucoma",
+    "name_vi": "Tăng nhãn áp",
+    "category": "Mắt"
+  },
+  {
+    "code": "I10",
+    "name_en": "Hypertension",
+    "name_vi": "Tăng huyết áp",
+    "category": "Tim mạch"
+  },
+  {
+    "code": "I20",
+    "name_en": "Angina pectoris",
+    "name_vi": "Đau thắt ngực",
+    "category": "Tim mạch"
+  },
+  {
+    "code": "I21",
+    "name_en": "Myocardial infarction",
+    "name_vi": "Nhồi máu cơ tim",
+    "category": "Tim mạch"
+  },
+  {
+    "code": "I50",
+    "name_en": "Heart failure",
+    "name_vi": "Suy tim",
+    "category": "Tim mạch"
+  },
+  {
+    "code": "I63",
+    "name_en": "Stroke",
+    "name_vi": "Đột quỵ não",
+    "category": "Tim mạch"
+  },
+  {
+    "code": "I84",
+    "name_en": "Hemorrhoids",
+    "name_vi": "Bệnh trĩ",
+    "category": "Tim mạch"
+  },
+  {
+    "code": "J00",
+    "name_en": "Common cold",
+    "name_vi": "Cảm lạnh thông thường",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "J02",
+    "name_en": "Pharyngitis",
+    "name_vi": "Viêm họng",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "J03",
+    "name_en": "Tonsillitis",
+    "name_vi": "Viêm amidan",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "J06",
+    "name_en": "Upper respiratory infection",
+    "name_vi": "Viêm đường hô hấp trên",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "J10",
+    "name_en": "Influenza",
+    "name_vi": "Cúm",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "J18",
+    "name_en": "Pneumonia",
+    "name_vi": "Viêm phổi",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "J20",
+    "name_en": "Acute bronchitis",
+    "name_vi": "Viêm phế quản cấp",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "J44",
+    "name_en": "COPD",
+    "name_vi": "Bệnh phổi tắc nghẽn mãn tính",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "J45",
+    "name_en": "Asthma",
+    "name_vi": "Hen suyễn",
+    "category": "Hô hấp"
+  },
+  {
+    "code": "K21",
+    "name_en": "GERD",
+    "name_vi": "Trào ngược dạ dày thực quản",
+    "category": "Tiêu hóa"
+  },
+  {
+    "code": "K25",
+    "name_en": "Gastric ulcer",
+    "name_vi": "Loét dạ dày",
+    "category": "Tiêu hóa"
+  },
+  {
+    "code": "K29",
+    "name_en": "Gastritis",
+    "name_vi": "Viêm dạ dày",
+    "category": "Tiêu hóa"
+  },
+  {
+    "code": "K35",
+    "name_en": "Appendicitis",
+    "name_vi": "Viêm ruột thừa",
+    "category": "Tiêu hóa"
+  },
+  {
+    "code": "K58",
+    "name_en": "IBS",
+    "name_vi": "Hội chứng ruột kích thích",
+    "category": "Tiêu hóa"
+  },
+  {
+    "code": "K74",
+    "name_en": "Cirrhosis",
+    "name_vi": "Xơ gan",
+    "category": "Tiêu hóa"
+  },
+  {
+    "code": "K80",
+    "name_en": "Gallstones",
+    "name_vi": "Sỏi mật",
+    "category": "Tiêu hóa"
+  },
+  {
+    "code": "L20",
+    "name_en": "Atopic dermatitis",
+    "name_vi": "Viêm da cơ địa",
+    "category": "Da liễu"
+  },
+  {
+    "code": "L40",
+    "name_en": "Psoriasis",
+    "name_vi": "Vẩy nến",
+    "category": "Da liễu"
+  },
+  {
+    "code": "L50",
+    "name_en": "Urticaria",
+    "name_vi": "Mề đay",
+    "category": "Da liễu"
+  },
+  {
+    "code": "L70",
+    "name_en": "Acne",
+    "name_vi": "Mụn trứng cá",
+    "category": "Da liễu"
+  },
+  {
+    "code": "M05",
+    "name_en": "Rheumatoid arthritis",
+    "name_vi": "Viêm khớp dạng thấp",
+    "category": "Cơ xương khớp"
+  },
+  {
+    "code": "M10",
+    "name_en": "Gout",
+    "name_vi": "Bệnh gout",
+    "category": "Cơ xương khớp"
+  },
+  {
+    "code": "M17",
+    "name_en": "Knee osteoarthritis",
+    "name_vi": "Thoái hóa khớp gối",
+    "category": "Cơ xương khớp"
+  },
+  {
+    "code": "M51",
+    "name_en": "Disc herniation",
+    "name_vi": "Thoát vị đĩa đệm",
+    "category": "Cơ xương khớp"
+  },
+  {
+    "code": "M54",
+    "name_en": "Back pain",
+    "name_vi": "Đau lưng",
+    "category": "Cơ xương khớp"
+  },
+  {
+    "code": "M81",
+    "name_en": "Osteoporosis",
+    "name_vi": "Loãng xương",
+    "category": "Cơ xương khớp"
+  },
+  {
+    "code": "N18",
+    "name_en": "Chronic kidney disease",
+    "name_vi": "Bệnh thận mãn",
+    "category": "Tiết niệu"
+  },
+  {
+    "code": "N20",
+    "name_en": "Kidney stones",
+    "name_vi": "Sỏi thận",
+    "category": "Tiết niệu"
+  },
+  {
+    "code": "N30",
+    "name_en": "Cystitis",
+    "name_vi": "Viêm bàng quang",
+    "category": "Tiết niệu"
+  },
+  {
+    "code": "N40",
+    "name_en": "BPH",
+    "name_vi": "Phì đại tuyến tiền liệt",
+    "category": "Tiết niệu"
+  }
+]

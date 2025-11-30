@@ -1,0 +1,46 @@
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+lxml>=4.9.0
+aiohttp>=3.9.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Vietnamese NLP
+underthesea>=6.8.0
+pyvi>=0.1.1
+
+# LLM & AI
+openai>=1.3.0
+google-generativeai>=0.3.0
+transformers>=4.35.0
+torch>=2.1.0
+sentence-transformers>=2.2.0
+
+# Vector Database (for RAG)
+faiss-cpu>=1.7.4
+chromadb>=0.4.0
+
+# Translation
+googletrans==4.0.0-rc1
+deep-translator>=1.11.0
+
+# Data Quality
+great-expectations>=0.18.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+loguru>=0.7.0
+pyyaml>=6.0.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Testing
+pytest>=7.4.0

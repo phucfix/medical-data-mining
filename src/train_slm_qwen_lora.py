@@ -43,12 +43,12 @@ LORA_DROPOUT = 0.05
 LORA_TARGET_MODULES = ["q_proj", "k_proj", "v_proj", "o_proj"]
 
 # Training Configuration
-NUM_EPOCHS = 3
-BATCH_SIZE = 4
-LEARNING_RATE = 2e-5
-LOGGING_STEPS = 10
-SAVE_STEPS = 100
-EVAL_STEPS = 100
+NUM_EPOCHS = 1  # Giảm số epoch để train nhanh hơn
+BATCH_SIZE = 8  # Tăng batch size nếu GPU đủ VRAM
+LEARNING_RATE = 5e-5  # Tăng learning rate để convergence nhanh hơn
+LOGGING_STEPS = 50  # Giảm số lần logging
+SAVE_STEPS = 500  # Giảm số lần save
+EVAL_STEPS = 500  # Giảm số lần eval
 MAX_LENGTH = 256
 WARMUP_RATIO = 0.1
 
@@ -375,13 +375,14 @@ def train():
         eval_strategy="steps",
         eval_steps=EVAL_STEPS,
         save_total_limit=2,
-        load_best_model_at_end=True,
+        load_best_model_at_end=False,  # Tắt để giảm overhead
         metric_for_best_model="eval_loss",
         greater_is_better=False,
         fp16=DEVICE == "cuda",
         report_to="none",
         remove_unused_columns=False,
         dataloader_pin_memory=False,
+        gradient_accumulation_steps=2,  # Tăng batch logic mà không cần nhiều VRAM
     )
     
     print(f"   Epochs: {NUM_EPOCHS}")

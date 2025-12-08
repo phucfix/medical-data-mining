@@ -154,6 +154,7 @@ def split_data(df: pd.DataFrame) -> tuple:
 def create_instruction_format(row: pd.Series) -> dict:
     """
     Tạo format huấn luyện kiểu instruction cho một mẫu.
+    Format đơn giản: chỉ có text gốc, không thêm prefix.
     
     Args:
         row: Một dòng trong DataFrame.
@@ -162,7 +163,7 @@ def create_instruction_format(row: pd.Series) -> dict:
         dict: Dict với input và output.
     """
     return {
-        "input": f"Nhận định sau đây đúng hay sai về y khoa: {row['text']}",
+        "input": row["text"],
         "output": row["label"]
     }
 

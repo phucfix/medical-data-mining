@@ -13,11 +13,11 @@ from peft import PeftModel
 # ============================================================================
 
 BASE_DIR = Path(__file__).parent.parent
-LORA_MODEL_DIR = BASE_DIR / "models" / "qwen2.5-0.5b-med-slm-lora"
+LORA_MODEL_DIR = BASE_DIR / "models" / "qwen2.5-0.5b-med-slm-lora-v2"
 BASE_MODEL_NAME = "Qwen/Qwen2.5-0.5B-Instruct"
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MAX_NEW_TOKENS = 20
+MAX_NEW_TOKENS = 150  # Tăng lên để có đủ chỗ cho giải thích
 
 
 # ============================================================================
@@ -91,12 +91,28 @@ def predict(model, tokenizer, statement: str) -> dict:
         skip_special_tokens=True
     ).strip()
     
-    # Extract label
+    # Extract label - kiểm tra từ đầu tiên xuất hiện
     generated_upper = generated.upper()
-    if "TRUE" in generated_upper or "ĐÚNG" in generated_upper:
+    
+    # Tìm vị trí xuất hiện của các từ khóa
+    true_pos = float('inf')
+    false_pos = float('inf')
+    
+    for keyword in ["TRUE", "ĐÚNG"]:
+        pos = generated_upper.find(keyword)
+        if pos != -1 and pos < true_pos:
+            true_pos = pos
+    
+    for keyword in ["FALSE", "SAI"]:
+        pos = generated_upper.find(keyword)
+        if pos != -1 and pos < false_pos:
+            false_pos = pos
+    
+    # Chọn label dựa trên từ xuất hiện đầu tiên
+    if true_pos < false_pos:
         label = "TRUE"
         verdict = "✓ ĐÚNG"
-    elif "FALSE" in generated_upper or "SAI" in generated_upper:
+    elif false_pos < true_pos:
         label = "FALSE"
         verdict = "✗ SAI"
     else:

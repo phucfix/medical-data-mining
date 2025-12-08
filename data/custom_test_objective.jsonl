@@ -1,0 +1,94 @@
+{"input": "Insulin được sản xuất bởi tuyến tụy.", "output": "TRUE"}
+{"input": "Vitamin C có thể chữa khỏi hoàn toàn bệnh ung thư.", "output": "FALSE"}
+{"input": "Huyết áp bình thường ở người trưởng thành là khoảng 120/80 mmHg.", "output": "TRUE"}
+{"input": "Uống kháng sinh có thể điều trị được cảm cúm do virus.", "output": "FALSE"}
+{"input": "Tim người bình thường đập khoảng 60-100 lần mỗi phút khi nghỉ ngơi.", "output": "TRUE"}
+{"input": "Bệnh tiểu đường type 2 chỉ xảy ra ở người già.", "output": "FALSE"}
+{"input": "Gan là cơ quan lớn nhất trong cơ thể người.", "output": "TRUE"}
+{"input": "Người bị cao huyết áp nên ăn nhiều muối.", "output": "FALSE"}
+{"input": "Máu được lọc qua thận để loại bỏ chất thải.", "output": "TRUE"}
+{"input": "Tất cả các loại cholesterol đều có hại cho sức khỏe.", "output": "FALSE"}
+{"input": "Phổi là cơ quan chịu trách nhiệm trao đổi khí oxy và CO2.", "output": "TRUE"}
+{"input": "Aspirin an toàn cho trẻ em dưới 12 tuổi khi bị sốt.", "output": "FALSE"}
+{"input": "Hemoglobin là protein vận chuyển oxy trong hồng cầu.", "output": "TRUE"}
+{"input": "Uống rượu bia giúp giảm nguy cơ bệnh tim mạch.", "output": "FALSE"}
+{"input": "Xương người trưởng thành có khoảng 206 xương.", "output": "TRUE"}
+{"input": "Bệnh Alzheimer là bệnh truyền nhiễm.", "output": "FALSE"}
+{"input": "Vitamin D giúp cơ thể hấp thụ canxi.", "output": "TRUE"}
+{"input": "Người bị tiểu đường có thể ăn đường thoải mái.", "output": "FALSE"}
+{"input": "Tế bào hồng cầu không có nhân.", "output": "TRUE"}
+{"input": "Kháng sinh có thể tiêu diệt virus.", "output": "FALSE"}
+{"input": "Não người tiêu thụ khoảng 20% năng lượng của cơ thể.", "output": "TRUE"}
+{"input": "Bệnh gout là do thiếu acid uric trong máu.", "output": "FALSE"}
+{"input": "Tuyến giáp điều hòa quá trình trao đổi chất trong cơ thể.", "output": "TRUE"}
+{"input": "Hút thuốc lá không ảnh hưởng đến nguy cơ ung thư phổi.", "output": "FALSE"}
+{"input": "Bạch cầu là thành phần của hệ miễn dịch.", "output": "TRUE"}
+{"input": "Người lớn cần ngủ ít nhất 2 tiếng mỗi đêm là đủ.", "output": "FALSE"}
+{"input": "Dạ dày tiết ra acid để tiêu hóa thức ăn.", "output": "TRUE"}
+{"input": "Vaccine gây ra bệnh tự kỷ ở trẻ em.", "output": "FALSE"}
+{"input": "Collagen là protein chính trong da và mô liên kết.", "output": "TRUE"}
+{"input": "Uống nước lạnh sau ăn gây ung thư.", "output": "FALSE"}
+{"input": "Thận có chức năng điều hòa huyết áp.", "output": "TRUE"}
+{"input": "Bệnh Parkinson là bệnh về xương khớp.", "output": "FALSE"}
+{"input": "Sắt là thành phần quan trọng trong hemoglobin.", "output": "TRUE"}
+{"input": "Thuốc kháng sinh nên uống cho đến khi hết triệu chứng.", "output": "FALSE"}
+{"input": "Tụy tiết ra enzyme tiêu hóa và hormone insulin.", "output": "TRUE"}
+{"input": "Bệnh đái tháo đường không liên quan đến chế độ ăn uống.", "output": "FALSE"}
+{"input": "Màng nhĩ nằm trong tai giữa.", "output": "TRUE"}
+{"input": "Người bị thiếu máu nên tránh ăn thịt đỏ.", "output": "FALSE"}
+{"input": "Adrenaline là hormone được tiết ra khi stress.", "output": "TRUE"}
+{"input": "Bệnh viêm gan B không lây qua đường máu.", "output": "FALSE"}
+{"input": "Ruột non là nơi hấp thụ chất dinh dưỡng chính.", "output": "TRUE"}
+{"input": "Sữa mẹ không cung cấp kháng thể cho trẻ sơ sinh.", "output": "FALSE"}
+{"input": "Cortisol là hormone liên quan đến stress.", "output": "TRUE"}
+{"input": "Bệnh sốt rét do vi khuẩn gây ra.", "output": "FALSE"}
+{"input": "Tiểu cầu giúp đông máu khi bị thương.", "output": "TRUE"}
+{"input": "Người bị hen suyễn nên tránh tập thể dục.", "output": "FALSE"}
+{"input": "Melatonin là hormone điều hòa giấc ngủ.", "output": "TRUE"}
+{"input": "AIDS có thể lây qua bắt tay và ôm.", "output": "FALSE"}
+{"input": "Lách là cơ quan lọc máu và lưu trữ tiểu cầu.", "output": "TRUE"}
+{"input": "Bệnh sỏi thận không liên quan đến việc uống ít nước.", "output": "FALSE"}
+{"input": "Dopamine là chất dẫn truyền thần kinh liên quan đến cảm giác vui vẻ.", "output": "TRUE"}
+{"input": "Thuốc giảm đau paracetamol không có tác dụng phụ.", "output": "FALSE"}
+{"input": "Màng phổi bao bọc và bảo vệ phổi.", "output": "TRUE"}
+{"input": "Bệnh zona thần kinh không liên quan đến virus thủy đậu.", "output": "FALSE"}
+{"input": "Testosterone là hormone sinh dục nam chính.", "output": "TRUE"}
+{"input": "Người bị tăng huyết áp nên uống nhiều cà phê.", "output": "FALSE"}
+{"input": "Tủy xương sản xuất các tế bào máu.", "output": "TRUE"}
+{"input": "Bệnh cúm và cảm lạnh là do cùng một loại virus.", "output": "FALSE"}
+{"input": "Estrogen là hormone sinh dục nữ chính.", "output": "TRUE"}
+{"input": "Xạ trị không có tác dụng phụ.", "output": "FALSE"}
+{"input": "Mật do gan sản xuất giúp tiêu hóa chất béo.", "output": "TRUE"}
+{"input": "Bệnh loãng xương chỉ xảy ra ở phụ nữ.", "output": "FALSE"}
+{"input": "Glycogen được dự trữ trong gan và cơ.", "output": "TRUE"}
+{"input": "Thuốc tránh thai không ảnh hưởng đến hormone.", "output": "FALSE"}
+{"input": "Võng mạc là nơi tiếp nhận ánh sáng trong mắt.", "output": "TRUE"}
+{"input": "Bệnh trầm cảm không phải là bệnh thực sự.", "output": "FALSE"}
+{"input": "Nước tiểu được hình thành tại thận.", "output": "TRUE"}
+{"input": "Người bệnh tiểu đường type 1 không cần tiêm insulin.", "output": "FALSE"}
+{"input": "Cơ tim hoạt động liên tục suốt đời.", "output": "TRUE"}
+{"input": "Uống nhiều nước ngọt có ga tốt cho sức khỏe.", "output": "FALSE"}
+{"input": "Hệ bạch huyết là một phần của hệ miễn dịch.", "output": "TRUE"}
+{"input": "Bệnh tay chân miệng không lây lan.", "output": "FALSE"}
+{"input": "Serotonin là chất dẫn truyền thần kinh ảnh hưởng đến tâm trạng.", "output": "TRUE"}
+{"input": "Tất cả các khối u đều là ung thư.", "output": "FALSE"}
+{"input": "Thực quản nối họng với dạ dày.", "output": "TRUE"}
+{"input": "Bệnh sốt xuất huyết lây qua đường hô hấp.", "output": "FALSE"}
+{"input": "Oxytocin là hormone liên quan đến sinh nở và cho con bú.", "output": "TRUE"}
+{"input": "Ăn nhiều rau xanh gây hại cho sức khỏe.", "output": "FALSE"}
+{"input": "Cơ hoành đóng vai trò quan trọng trong hô hấp.", "output": "TRUE"}
+{"input": "Bệnh HIV/AIDS đã có thuốc chữa khỏi hoàn toàn.", "output": "FALSE"}
+{"input": "Protein được tiêu hóa thành acid amin.", "output": "TRUE"}
+{"input": "Uống rượu khi mang thai an toàn cho thai nhi.", "output": "FALSE"}
+{"input": "Hạch bạch huyết lọc dịch bạch huyết và chứa tế bào miễn dịch.", "output": "TRUE"}
+{"input": "Bệnh viêm phổi không thể điều trị được.", "output": "FALSE"}
+{"input": "Hormone tăng trưởng được tiết ra bởi tuyến yên.", "output": "TRUE"}
+{"input": "Stress kéo dài không ảnh hưởng đến sức khỏe.", "output": "FALSE"}
+{"input": "Niêm mạc dạ dày bảo vệ dạ dày khỏi acid.", "output": "TRUE"}
+{"input": "Bệnh đau nửa đầu migraine là bệnh nhẹ không cần điều trị.", "output": "FALSE"}
+{"input": "Enzyme amylase trong nước bọt giúp tiêu hóa tinh bột.", "output": "TRUE"}
+{"input": "Người bị bệnh thận nên ăn nhiều protein.", "output": "FALSE"}
+{"input": "Hệ thần kinh trung ương gồm não và tủy sống.", "output": "TRUE"}
+{"input": "Bệnh viêm khớp dạng thấp là bệnh do tuổi già.", "output": "FALSE"}
+{"input": "Gan có khả năng tái tạo.", "output": "TRUE"}
+{"input": "Thuốc chống đông máu không có nguy cơ chảy máu.", "output": "FALSE"}

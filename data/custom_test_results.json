@@ -1,0 +1,676 @@
+{
+  "total": 94,
+  "correct": 64,
+  "accuracy": 0.6808510638297872,
+  "unknown_count": 0,
+  "true_accuracy": 0.44680851063829785,
+  "false_accuracy": 0.9148936170212766,
+  "confusion_matrix": {
+    "TP": 21,
+    "FN": 26,
+    "FP": 4,
+    "TN": 43,
+    "TRUE_UNKNOWN": 0,
+    "FALSE_UNKNOWN": 0
+  },
+  "predictions": [
+    {
+      "input": "Insulin được sản xuất bởi tuyến tụy.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có nguồn gốc thực tế",
+      "correct": false
+    },
+    {
+      "input": "Vitamin C có thể chữa khỏi hoàn toàn bệnh ung thư.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nCó nhiều nghiên cứu đã chứng min",
+      "correct": true
+    },
+    {
+      "input": "Huyết áp bình thường ở người trưởng thành là khoảng 120/80 mmHg.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nHuyết áp bình thường ở người trưởng",
+      "correct": true
+    },
+    {
+      "input": "Uống kháng sinh có thể điều trị được cảm cúm do virus.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nPhản ứng: Uống kháng sinh",
+      "correct": true
+    },
+    {
+      "input": "Tim người bình thường đập khoảng 60-100 lần mỗi phút khi nghỉ ngơi.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có thông tin về việc",
+      "correct": false
+    },
+    {
+      "input": "Bệnh tiểu đường type 2 chỉ xảy ra ở người già.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Bệnh tiểu đường type 2",
+      "correct": true
+    },
+    {
+      "input": "Gan là cơ quan lớn nhất trong cơ thể người.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nGiải thích: Gan là cơ qu",
+      "correct": true
+    },
+    {
+      "input": "Người bị cao huyết áp nên ăn nhiều muối.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nGiải thích: Muối có thể",
+      "correct": true
+    },
+    {
+      "input": "Máu được lọc qua thận để loại bỏ chất thải.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Mau không phải là chất",
+      "correct": false
+    },
+    {
+      "input": "Tất cả các loại cholesterol đều có hại cho sức khỏe.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\n\nTrong thực phẩm, các loại cholesterol",
+      "correct": true
+    },
+    {
+      "input": "Phổi là cơ quan chịu trách nhiệm trao đổi khí oxy và CO2.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nPhản nghiệm: Trong quá trình",
+      "correct": true
+    },
+    {
+      "input": "Aspirin an toàn cho trẻ em dưới 12 tuổi khi bị sốt.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nAspirin có thể gây ra các",
+      "correct": true
+    },
+    {
+      "input": "Hemoglobin là protein vận chuyển oxy trong hồng cầu.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nExplanation: True because hemoglobin is indeed",
+      "correct": true
+    },
+    {
+      "input": "Uống rượu bia giúp giảm nguy cơ bệnh tim mạch.",
+      "true_label": "FALSE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nTrong nghiên cứu, các nhà kho",
+      "correct": false
+    },
+    {
+      "input": "Xương người trưởng thành có khoảng 206 xương.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\nXác suất: 100",
+      "correct": true
+    },
+    {
+      "input": "Bệnh Alzheimer là bệnh truyền nhiễm.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nBệnh Alzheimer là một bệnh xã hội",
+      "correct": true
+    },
+    {
+      "input": "Vitamin D giúp cơ thể hấp thụ canxi.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Vitamin D không giúp cơ thể",
+      "correct": false
+    },
+    {
+      "input": "Người bị tiểu đường có thể ăn đường thoải mái.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nGiải thích: Trong cơ thể",
+      "correct": true
+    },
+    {
+      "input": "Tế bào hồng cầu không có nhân.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Tế bào hồng cầu là",
+      "correct": false
+    },
+    {
+      "input": "Kháng sinh có thể tiêu diệt virus.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nKháng sinh là loại thuốc dùng để",
+      "correct": true
+    },
+    {
+      "input": "Não người tiêu thụ khoảng 20% năng lượng của cơ thể.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có nghiên cứu nào chứng",
+      "correct": false
+    },
+    {
+      "input": "Bệnh gout là do thiếu acid uric trong máu.",
+      "true_label": "FALSE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\nBệnh gout là một bệnh liên",
+      "correct": false
+    },
+    {
+      "input": "Tuyến giáp điều hòa quá trình trao đổi chất trong cơ thể.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có nghiên cứu nào chứng",
+      "correct": false
+    },
+    {
+      "input": "Hút thuốc lá không ảnh hưởng đến nguy cơ ung thư phổi.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nGiải thích: Hút thuốc lá",
+      "correct": true
+    },
+    {
+      "input": "Bạch cầu là thành phần của hệ miễn dịch.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nBạch cầu là một loại tế bào",
+      "correct": true
+    },
+    {
+      "input": "Người lớn cần ngủ ít nhất 2 tiếng mỗi đêm là đủ.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\n\nExplanation: Không có nghiên cứu chứng min",
+      "correct": true
+    },
+    {
+      "input": "Dạ dày tiết ra acid để tiêu hóa thức ăn.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Acid dính vào dạ dày",
+      "correct": false
+    },
+    {
+      "input": "Vaccine gây ra bệnh tự kỷ ở trẻ em.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nGiải thích: Vaccine không gây ra",
+      "correct": true
+    },
+    {
+      "input": "Collagen là protein chính trong da và mô liên kết.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nExplanation: Collagen là một loại protein",
+      "correct": true
+    },
+    {
+      "input": "Uống nước lạnh sau ăn gây ung thư.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nGiải thích:\n\nUng thư là",
+      "correct": true
+    },
+    {
+      "input": "Thận có chức năng điều hòa huyết áp.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nThực tế, việc nhận diện chức",
+      "correct": false
+    },
+    {
+      "input": "Bệnh Parkinson là bệnh về xương khớp.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nBệnh Parkinson là một bệnh về não",
+      "correct": true
+    },
+    {
+      "input": "Sắt là thành phần quan trọng trong hemoglobin.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nExplanation: Sắt (iron) là",
+      "correct": true
+    },
+    {
+      "input": "Thuốc kháng sinh nên uống cho đến khi hết triệu chứng.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Thuốc kháng sinh thường được",
+      "correct": true
+    },
+    {
+      "input": "Tụy tiết ra enzyme tiêu hóa và hormone insulin.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nTụy tiết ra enzyme tiêu hóa",
+      "correct": false
+    },
+    {
+      "input": "Bệnh đái tháo đường không liên quan đến chế độ ăn uống.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nBệnh đái tháo đường là",
+      "correct": true
+    },
+    {
+      "input": "Màng nhĩ nằm trong tai giữa.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có màng nhĩ",
+      "correct": false
+    },
+    {
+      "input": "Người bị thiếu máu nên tránh ăn thịt đỏ.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Thịt đỏ có thể chứa",
+      "correct": true
+    },
+    {
+      "input": "Adrenaline là hormone được tiết ra khi stress.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nExplanation: Adrenaline, also known",
+      "correct": true
+    },
+    {
+      "input": "Bệnh viêm gan B không lây qua đường máu.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nBệnh viêm gan B là bệnh nhiễm",
+      "correct": true
+    },
+    {
+      "input": "Ruột non là nơi hấp thụ chất dinh dưỡng chính.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\nRuột non là nơi hấp thụ chất",
+      "correct": true
+    },
+    {
+      "input": "Sữa mẹ không cung cấp kháng thể cho trẻ sơ sinh.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có nghiên cứu nào chứng",
+      "correct": true
+    },
+    {
+      "input": "Cortisol là hormone liên quan đến stress.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nCortisol là một loại hormon",
+      "correct": true
+    },
+    {
+      "input": "Bệnh sốt rét do vi khuẩn gây ra.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nBệnh sốt rét do vi",
+      "correct": true
+    },
+    {
+      "input": "Tiểu cầu giúp đông máu khi bị thương.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Tiểu cầu không có chức năng",
+      "correct": false
+    },
+    {
+      "input": "Người bị hen suyễn nên tránh tập thể dục.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Khả năng gây ra dị",
+      "correct": true
+    },
+    {
+      "input": "Melatonin là hormone điều hòa giấc ngủ.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nExplanation: Melatonin là một loại horm",
+      "correct": true
+    },
+    {
+      "input": "AIDS có thể lây qua bắt tay và ôm.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Trong tình trạng bệnh AIDS",
+      "correct": true
+    },
+    {
+      "input": "Lách là cơ quan lọc máu và lưu trữ tiểu cầu.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nLưu ý: Trong quá trình",
+      "correct": false
+    },
+    {
+      "input": "Bệnh sỏi thận không liên quan đến việc uống ít nước.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Bất kỳ bệnh nào có",
+      "correct": true
+    },
+    {
+      "input": "Dopamine là chất dẫn truyền thần kinh liên quan đến cảm giác vui vẻ.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nDopamine là một loại axon",
+      "correct": true
+    },
+    {
+      "input": "Thuốc giảm đau paracetamol không có tác dụng phụ.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Paracetamol là thuốc",
+      "correct": true
+    },
+    {
+      "input": "Màng phổi bao bọc và bảo vệ phổi.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Màng phổi không chỉ",
+      "correct": false
+    },
+    {
+      "input": "Bệnh zona thần kinh không liên quan đến virus thủy đậu.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nBệnh Zona Hysteria (",
+      "correct": true
+    },
+    {
+      "input": "Testosterone là hormone sinh dục nam chính.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nTestosterone là hormone sinh dục nam chính",
+      "correct": true
+    },
+    {
+      "input": "Người bị tăng huyết áp nên uống nhiều cà phê.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nCâu chuyện này không liên quan",
+      "correct": true
+    },
+    {
+      "input": "Tủy xương sản xuất các tế bào máu.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Tủy xương không có chức",
+      "correct": false
+    },
+    {
+      "input": "Bệnh cúm và cảm lạnh là do cùng một loại virus.",
+      "true_label": "FALSE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\nExplanation: Cúm và cảm lạnh",
+      "correct": false
+    },
+    {
+      "input": "Estrogen là hormone sinh dục nữ chính.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\nExplanation: Estrogen là hormon sinh",
+      "correct": true
+    },
+    {
+      "input": "Xạ trị không có tác dụng phụ.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nXét nghiệm: 10%",
+      "correct": true
+    },
+    {
+      "input": "Mật do gan sản xuất giúp tiêu hóa chất béo.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nMã đề bài: TRUE\n\nTr",
+      "correct": true
+    },
+    {
+      "input": "Bệnh loãng xương chỉ xảy ra ở phụ nữ.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nBệnh loãng xương thường gặp ở",
+      "correct": true
+    },
+    {
+      "input": "Glycogen được dự trữ trong gan và cơ.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có nghiên cứu nào chứng",
+      "correct": false
+    },
+    {
+      "input": "Thuốc tránh thai không ảnh hưởng đến hormone.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nThuốc tránh thai có tác dụng phụ",
+      "correct": true
+    },
+    {
+      "input": "Võng mạc là nơi tiếp nhận ánh sáng trong mắt.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nVõng mạc là nơi tiếp",
+      "correct": true
+    },
+    {
+      "input": "Bệnh trầm cảm không phải là bệnh thực sự.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nBệnh trầm cảm là một dạng của",
+      "correct": true
+    },
+    {
+      "input": "Nước tiểu được hình thành tại thận.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Nước tiểu không phải là",
+      "correct": false
+    },
+    {
+      "input": "Người bệnh tiểu đường type 1 không cần tiêm insulin.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nTheo dõi và điều trị tiểu đường",
+      "correct": true
+    },
+    {
+      "input": "Cơ tim hoạt động liên tục suốt đời.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nCơ thể của con người không có",
+      "correct": false
+    },
+    {
+      "input": "Uống nhiều nước ngọt có ga tốt cho sức khỏe.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nGiải thích:\n\nUống nhiều nước",
+      "correct": true
+    },
+    {
+      "input": "Hệ bạch huyết là một phần của hệ miễn dịch.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nExplanation: Hệ bạch huyết, còn",
+      "correct": true
+    },
+    {
+      "input": "Bệnh tay chân miệng không lây lan.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nBệnh tay chân miệng (M",
+      "correct": true
+    },
+    {
+      "input": "Serotonin là chất dẫn truyền thần kinh ảnh hưởng đến tâm trạng.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nExplanation: TRUE because serotonin is indeed a",
+      "correct": true
+    },
+    {
+      "input": "Tất cả các khối u đều là ung thư.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có sự đồng nhất trong",
+      "correct": true
+    },
+    {
+      "input": "Thực quản nối họng với dạ dày.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có nghiên cứu khoa",
+      "correct": false
+    },
+    {
+      "input": "Bệnh sốt xuất huyết lây qua đường hô hấp.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nBệnh sốt xuất huyết là bệnh",
+      "correct": true
+    },
+    {
+      "input": "Oxytocin là hormone liên quan đến sinh nở và cho con bú.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nOxytocin là một loại horm",
+      "correct": true
+    },
+    {
+      "input": "Ăn nhiều rau xanh gây hại cho sức khỏe.",
+      "true_label": "FALSE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nTrong thực tế, ăn nhiều r",
+      "correct": false
+    },
+    {
+      "input": "Cơ hoành đóng vai trò quan trọng trong hô hấp.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nCơ hoành đóng vai trò qu",
+      "correct": false
+    },
+    {
+      "input": "Bệnh HIV/AIDS đã có thuốc chữa khỏi hoàn toàn.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nTheo nghiên cứu, bệnh AIDS không",
+      "correct": true
+    },
+    {
+      "input": "Protein được tiêu hóa thành acid amin.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Không có nghiên cứu khoa",
+      "correct": false
+    },
+    {
+      "input": "Uống rượu khi mang thai an toàn cho thai nhi.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nGiải thích:\n\nUống rượu khi",
+      "correct": true
+    },
+    {
+      "input": "Hạch bạch huyết lọc dịch bạch huyết và chứa tế bào miễn dịch.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nHạch bạch huyết lọc dịch b",
+      "correct": false
+    },
+    {
+      "input": "Bệnh viêm phổi không thể điều trị được.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nTheo dõi và điều trị bệnh viêm",
+      "correct": true
+    },
+    {
+      "input": "Hormone tăng trưởng được tiết ra bởi tuyến yên.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Hormones tăng trưởng,",
+      "correct": false
+    },
+    {
+      "input": "Stress kéo dài không ảnh hưởng đến sức khỏe.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nTheo nghiên cứu, stress kéo dài",
+      "correct": true
+    },
+    {
+      "input": "Niêm mạc dạ dày bảo vệ dạ dày khỏi acid.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nExplanation: Niêm mạc dạ dày",
+      "correct": false
+    },
+    {
+      "input": "Bệnh đau nửa đầu migraine là bệnh nhẹ không cần điều trị.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nTheo nghiên cứu, bệnh đau nửa",
+      "correct": true
+    },
+    {
+      "input": "Enzyme amylase trong nước bọt giúp tiêu hóa tinh bột.",
+      "true_label": "TRUE",
+      "pred_label": "TRUE",
+      "raw_output": "TRUE\n\nExplanation: True because enzyme amylase",
+      "correct": true
+    },
+    {
+      "input": "Người bị bệnh thận nên ăn nhiều protein.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nTrong tình trạng thận yếu, cơ",
+      "correct": true
+    },
+    {
+      "input": "Hệ thần kinh trung ương gồm não và tủy sống.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Tuy nhiên, hệ thần",
+      "correct": false
+    },
+    {
+      "input": "Bệnh viêm khớp dạng thấp là bệnh do tuổi già.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nExplanation: Bệnh viêm khớp dạng thấp (",
+      "correct": true
+    },
+    {
+      "input": "Gan có khả năng tái tạo.",
+      "true_label": "TRUE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\nGiải thích: Gan không có khả",
+      "correct": false
+    },
+    {
+      "input": "Thuốc chống đông máu không có nguy cơ chảy máu.",
+      "true_label": "FALSE",
+      "pred_label": "FALSE",
+      "raw_output": "FALSE\n\nThuốc chống đông máu (antico",
+      "correct": true
+    }
+  ]
+}

@@ -26,6 +26,7 @@ wheels/
 # data/processed/
 # data/generated/
 # data/external/
+*.zip
 
 # Logs
 logs/
@@ -55,3 +56,5 @@ models/
 *.pth
 *.bin
 *.onnx
+
+

@@ -157,8 +157,12 @@ def train_chunk(
             trust_remote_code=True,
         )
         
-        # Load LoRA weights từ chunk trước
-        model = PeftModel.from_pretrained(base_model, previous_model_path)
+        # Load LoRA weights từ chunk trước - SET IS_TRAINABLE=True
+        model = PeftModel.from_pretrained(
+            base_model, 
+            previous_model_path,
+            is_trainable=True  # FIX: Enable training on loaded weights
+        )
         print("✓ Loaded LoRA weights from previous chunk")
     else:
         print(f"Loading fresh base model: {MODEL_NAME}")
@@ -207,7 +211,8 @@ def train_chunk(
         logging_steps=LOGGING_STEPS,
         save_strategy="no",  # Không save intermediate checkpoints
         eval_strategy="no",   # Không eval
-        fp16=DEVICE == "cuda",
+        fp16=False,  # FIX: Disable fp16 to avoid mixed precision issues with chunked training
+        bf16=DEVICE == "cuda",  # Use bf16 instead (more stable)
         report_to="none",
         gradient_checkpointing=True,
         dataloader_num_workers=0,

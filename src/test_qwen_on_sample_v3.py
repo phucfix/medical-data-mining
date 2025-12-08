@@ -35,8 +35,9 @@ def load_model_with_lora():
     print(f"Loading LoRA adapter from: {LORA_MODEL_DIR}")
     print(f"Device: {DEVICE}")
     
+    # Load tokenizer from BASE MODEL (not LoRA dir)
     tokenizer = AutoTokenizer.from_pretrained(
-        str(LORA_MODEL_DIR),
+        BASE_MODEL_NAME,  # FIX: Load from base model, not LoRA dir
         trust_remote_code=True
     )
     if tokenizer.pad_token is None:
@@ -52,7 +53,7 @@ def load_model_with_lora():
     model = PeftModel.from_pretrained(base_model, str(LORA_MODEL_DIR))
     model.eval()
     
-    print("Model loaded successfully!")
+    print("✓ Model loaded successfully!")
     return model, tokenizer
 
 

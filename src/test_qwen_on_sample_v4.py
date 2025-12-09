@@ -136,9 +136,19 @@ def load_test_data():
     with open(TEST_FILE, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
+            # Handle different column names
+            if 'input' in row:
+                input_text = row['input']
+                output_text = row['output']
+            elif 'Mệnh đề Câu hỏi (VIETNAMESE TEXT ONLY)' in row:
+                input_text = row['Mệnh đề Câu hỏi (VIETNAMESE TEXT ONLY)']
+                output_text = row['Đáp án (TRUE/FALSE)']
+            else:
+                raise ValueError(f"Unknown CSV format. Columns: {list(row.keys())}")
+            
             data.append({
-                'input': row['input'],
-                'output': row['output']
+                'input': input_text,
+                'output': output_text
             })
     
     print(f"✓ Loaded {len(data)} test samples\n")

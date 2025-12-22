@@ -74,8 +74,11 @@ def load_model_with_lora(model_dir):
 # ============================================================================
 
 def create_prompt(input_text: str) -> str:
-    """Tạo prompt giống training."""
-    return f"Bạn là một trợ lý y tế. Hãy trả lời Đúng hoặc Sai.\nNhận định: {input_text}\nĐáp án:"
+    return (
+        "Chỉ trả lời ĐÚNG hoặc SAI cho nhận định y khoa sau, không giải thích.\n"
+        f"Nhận định: {input_text}\n"
+        "Đáp án:"
+    )
 
 
 def predict(model, tokenizer, input_text: str) -> str:
